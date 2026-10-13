@@ -297,27 +297,50 @@ The US does not stand out on prevalences. It has the highest penalties of any ri
 
 ---
 
-## (iii) Cultural explanations
+## (iii) Cultural explanations: the claim
 
 . . .
 
-- The argument: a problematic culture causes counterproductive behaviour, which causes poverty, which feeds back into the culture, often across generations
+1. People in poverty share a distinct culture: values and norms in the old version, "frames, scripts and repertoires" in the new one
 
 . . .
 
-- Discredited after the 1960s, revived in 2010 by "new culturalists" with a new vocabulary: frames, scripts and repertoires instead of values and norms
+2. That culture produces behaviour that keeps them poor: not finishing school, not marrying, not working
 
 . . .
 
-- Same problems as before: endogeneity, poor neighbourhoods studied without comparison groups, never tested against rival explanations, and no account of why poverty is high in the first place
+3. Poverty then reinforces the culture, and passes it on to the next generation
 
 ::: {.notes}
-- Old culture-of-poverty work collapsed under logical and evidentiary problems, not just political controversy: endogenous (if culture causes poverty and poverty causes culture, what causes the high poverty in the first place?), selection on poor people and poor neighbourhoods, stereotypes from elite white male academics. Evidence long shows the poor do not hold anti-marriage or anti-school values.
-- 2010: "'Culture of Poverty' Makes a Comeback" (NYT). Small, Harding and Lamont's Annals issue, among the most cited poverty research of recent decades.
-- New vocabulary, same argument: "Rather than causing behavior, frames make it possible or likely." Brady: no real difference.
-- Harding's Living the Drama: 60 Black and Latino boys in three poor Boston neighbourhoods, no comparison group, dismisses structural explanations as "feathers buffeted by winds".
-- Rather than boys lacking soft skills, ample evidence of employer discrimination. Rather than ignorance about college, segregated lower-quality schools.
-- Combines the weaknesses of fixing and dramatizing: cannot explain the high poverty that sets the stage, overrepresents stereotypical groups.
+- A behavioural explanation with culture as the upstream cause: culture causes behaviour, behaviour causes poverty, poverty feeds back into culture.
+- Old version: the "culture of poverty" of the 1960s, discredited after flawed generalisations about poor people, ethno-racial minorities and developing countries. Brady insists it fell because of logical and evidentiary problems, not only because of the Moynihan Report controversy.
+- New version: in 2010 the New York Times reported "'Culture of Poverty' Makes a Comeback". Small, Harding and Lamont's Annals issue "Reconsidering culture and poverty" is among the most cited poverty research of recent decades. New vocabulary, culture described as heterogeneous and adaptive, probabilistic rather than deterministic.
+- Brady's point: the argument is the same. "Rather than causing behavior, frames make it possible or likely" (Small et al.). Brady: there is no real difference between "cause" and "make possible or likely".
+- Example: Harding's Living the Drama. 60 Black and Latino adolescent boys in three poor Boston neighbourhoods. "Ghetto-specific cultural models" and "negative role models" are said to lead boys not to use condoms, to engage in violence, and to "produce ignorance about how to successfully navigate educational institutions".
+:::
+
+---
+
+## (iii) Cultural explanations: why Brady rejects them
+
+. . .
+
+- **Circular.** If culture causes poverty and poverty causes culture, what made poverty high in the first place?
+
+. . .
+
+- **No comparison.** Studies of poor people in poor neighbourhoods, with no non-poor group and no test against rival explanations
+
+. . .
+
+- **Wrong answer.** The evidence points to employer discrimination and segregated, lower-quality schools, not to the values of the poor
+
+::: {.notes}
+- Endogeneity: the feedback loop cannot explain the starting conditions. Cultural explanations "never really even attempted to explain systemically high poverty" and habitually omit the historical and institutional context.
+- Selection: concentrating on a selectively chosen poor group without comparison groups. Harding compares disadvantaged boys and neighbourhoods against unobserved non-disadvantaged ones. Stereotypes often based on "the subjective biases of elite white male academics".
+- Rival explanations: ample evidence that the poor do not hold anti-marriage or anti-school values. Rather than adolescent Black males lacking soft skills, extensive racial discrimination by employers. Rather than ignorance about college pathways, segregated and lower-quality schools and toxic environments. "It is possible that culture does not matter net of such factors."
+- The new culturalists sidestep the old critiques rather than answer them, and barely mention racism: Small et al. has one mention, Harding one index entry.
+- Combines the weaknesses of both other approaches: like fixing the poor, it cannot explain the high poverty that sets the stage; like dramatizing, it fixates on symptoms and overrepresents stereotypical groups.
 :::
 
 # 3. Political explanations
