@@ -26,6 +26,28 @@ nocite: |
   @bradyPovertyNotPoor2023
 ---
 
+## Why this paper
+
+. . .
+
+A tension that keeps growing when psychology studies social phenomena: the **i-frame** and the **s-frame** [@chaterIframeSframeHow2023]
+
+. . .
+
+Poverty illustrates it unusually well: a huge, stable, structural problem with a large behavioural-science literature on the individuals in it
+
+. . .
+
+A concrete case for thinking the tension through, rather than in the abstract
+
+::: {.notes}
+- Chater and Loewenstein (2023, Behavioral and Brain Sciences): behavioural public policy has framed problems at the level of the individual (i-frame), which has led it astray from the system-level causes and solutions (s-frame). The same tension shows up in climate communication, misinformation, trust in science.
+- Brady is a sociologist who makes the s-frame case for poverty without using the term. Sheehy-Skeffington and colleagues (section 4) are psychologists who take the i-frame versus s-frame framing explicitly and try to answer it for poverty.
+- Why poverty is a good case: the evidence on both sides is unusually mature. Four decades of cross-national data on the poverty rate, and fifteen years of experiments on decision-making under scarcity.
+:::
+
+---
+
 ## {.big-center}
 
 ::: {.statement}
