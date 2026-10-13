@@ -1,0 +1,121 @@
+/*-- scss:defaults --*/
+
+// Accent colour, used for links and the bottom progress bar.
+$link-color: #2A76DD;
+
+/*-- scss:rules --*/
+
+// In-text citations (pandoc citeproc wraps them in `span.citation`): render
+// smaller than body text so references are unobtrusive on slides.
+.reveal .citation {
+  font-size: 0.7em;
+}
+
+// Progress bar: thicker and accent-coloured, pinned at the bottom.
+.reveal .progress {
+  height: 10px;
+  color: $link-color;
+}
+
+// Small persistent section title, top-left of content slides.
+// (Populated by section-label.html — pure CSS can't read "current section".)
+// NOT scoped under `.reveal`: Quarto's include-after-body injects this
+// element OUTSIDE the .reveal container, so a `.reveal #section-label`
+// selector would never match.
+#section-label {
+  position: fixed;
+  top: 14px;
+  left: 22px;
+  z-index: 60;
+  font-size: 1.5rem;
+  letter-spacing: 0.04em;
+  color: $link-color;
+  opacity: 0.75;
+  pointer-events: none;
+}
+
+@media print {
+  #section-label { display: none !important; }
+}
+
+// `smaller: true` scales slide text to 0.7em; use 0.8em instead.
+.reveal .slides section.smaller { font-size: 0.8em; }
+
+// Opt-in heading-height top padding.
+//
+// By default, headerless slides (made with `---`) start at the very top
+// to maximize content area. To opt a slide back into the vertical alignment
+// titled slides have, prepend an empty `##` line at the top of the slide:
+// pandoc renders it as `<h2></h2>`, which is hidden but reserves space via
+// the `:has()` rule below.
+.reveal .slides h2:empty { display: none; }
+
+.reveal .slides > section:has(> h2:empty),
+.reveal .slides > section.stack > section:has(> h2:empty) {
+  padding-top: calc(
+    var(--r-heading2-size, 1.6em) * var(--r-heading-line-height, 1.2) + 20px
+  );
+}
+
+// Statement slides: `## {.big-center}` as the slide header makes the whole
+// slide a full-height centred flex column. Headings, if any, stay at the top.
+// Wrap the text in `::: {.statement}` for consistent padding.
+.reveal .slides section.big-center {
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  text-align: center;
+  font-size: 1.35em !important;
+  transform: none !important;
+  padding-top: 0 !important;
+}
+.reveal .slides section.big-center h2,
+.reveal .slides section.big-center h3 {
+  margin-top: 0;
+  margin-bottom: 1em;
+  align-self: flex-start;
+  text-align: left;
+  width: 100%;
+}
+.reveal .statement { text-align: center; margin: 0.4em 0; padding: 0 6%; }
+
+// Static images with a white background (figures lifted from a paper) sit on
+// a white rounded card so they read cleanly on the dark theme:
+// `![](figures/fig1.png){.card}`.
+.reveal .slides img.card {
+  background: #fff;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+// Title slide.
+.reveal #title-slide { text-align: center; }
+.reveal #title-slide .title { font-size: 2.5em; line-height: 1.2; }
+
+// Partner logos on the title slide, only when title-slide-logos.html is used
+// as a template partial: in the normal flow, centred under the author line.
+.reveal #title-slide .title-logo {
+  position: static;
+  display: inline-block;
+  height: 52px;
+  margin: 70px 24px 0 24px;
+}
+
+// Team grid for the "Thank you" slide.
+.five-col {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.five-col .person {
+  width: 18%;
+  text-align: left;
+  margin-bottom: 10px;
+  font-size: 0.6em;
+}
+.five-col img {
+  border-radius: 6px;
+}

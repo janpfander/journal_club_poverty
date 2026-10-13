@@ -1,0 +1,15 @@
+.DS_Store
+.quarto
+/.quarto/
+.Rproj.user
+.Rhistory
+.positai
+*.aux
+*.log
+*.tex
+*.toc
+**/*_files/
+output/
+**/*.quarto_ipynb
+# rendered deck (self-contained html, rebuild with `quarto render`)
+slides/*.html
