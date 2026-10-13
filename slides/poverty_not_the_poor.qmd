@@ -171,7 +171,17 @@ Brady asks why the United States has so much **poverty**. [@bradyPovertyNotPoor2
 
 # 2. Three prevailing approaches
 
-## Fixing the poor
+## {.big-center}
+
+::: {.statement}
+(i) fixing the poor · (ii) dramatizing the poor · (iii) cultural explanations
+:::
+
+::: {.notes}
+- Brady's own labels. All three focus on the individual poor rather than on why poverty is systemically high. He links this to America's uniquely strong individualistic ideology.
+:::
+
+## (i) Fixing the poor
 
 Behavioural explanations: the poor are poor because they more often carry one of four risks
 
@@ -191,7 +201,7 @@ Anti-poverty strategy: reduce the share of the population with these risks
 
 ---
 
-## Prevalences and penalties
+## (i) Fixing the poor: prevalences and penalties
 
 . . .
 
@@ -214,7 +224,7 @@ The US does not stand out on prevalences. It has the highest penalties of any ri
 
 ---
 
-## Dramatizing the poor
+## (ii) Dramatizing the poor
 
 ![Brady (2023), Fig. 7](figures/fig7.jpeg){.card fig-align="center" height="520"}
 
@@ -230,7 +240,7 @@ The US does not stand out on prevalences. It has the highest penalties of any ri
 
 ---
 
-## Cultural explanations
+## (iii) Cultural explanations
 
 . . .
 
