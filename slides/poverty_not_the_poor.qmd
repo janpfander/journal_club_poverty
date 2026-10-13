@@ -485,58 +485,80 @@ Offering individual fixes can reduce public support for structural ones
 
 ---
 
-## Their proposal: start from how society is organised, then work down to the individual
+## Their proposal: study poverty "outside-in"
 
 . . .
 
-1. How a country runs its welfare state
+**Macro- and exosystem.** The welfare regime and the ideology behind it
 
 . . .
 
-2. How specific benefits are designed
+**Mesosystem.** The design and implementation of specific social policies
 
 . . .
 
-3. The daily conditions of being poor
+**Microsystem.** The proximal material and social conditions of poverty
 
 . . .
 
-At each level, the question is the same: what does this do to people psychologically?
+Start at the widest level and work inward. At each level: what does this do to people, and what should psychology study?
 
 ::: {.notes}
-- The reversal they propose: most work goes "inside-out", from the individual in poverty to what could be done around them. They go "outside-in", from institutions and ideology down to daily experience.
-- In their vocabulary: Chater and Loewenstein's i-frame versus s-frame, and Bronfenbrenner's nested systems (macro, exo, meso, micro). The three levels on the slide correspond to those layers.
-- The claim is that each level has measurable psychological consequences, so psychologists have something to study at each one without starting from the individual.
+- Bronfenbrenner's ecological systems theory. Microsystem: the immediate environment where one carries out roles (the welfare office, the supermarket). Mesosystem: the set of microsystems a person inhabits and how they interact (work and childcare). Exosystem: formal and informal institutions that distribute resources, rights and opportunities (parliaments, markets, media). Macrosystem: the cultural and ideological "blueprint" (free-market capitalism, labour law, the policy regime).
+- The paper adds to this: comparative political economy (how welfare states differ) and intergroup power relations (social dominance theory, intersectionality).
+- The reversal: most work goes "inside-out", from individuals in poverty to what could be done around them. The paper goes "outside-in". In Chater and Loewenstein's terms, from the i-frame to the s-frame.
 :::
 
 ---
 
-## 1. How the welfare state treats you
+## Macro- and exosystem: the welfare regime
 
 . . .
 
-US and UK: support must be earned and is policed, through job-search requirements, sanctions, even drug tests. Linked to stigma and worse mental health
+Liberal regimes (US, UK): support must be earned and is policed, through job-search requirements, sanctions, even drug tests. Linked to stigma and worse mental health
 
 . . .
 
-Nordic countries: benefits are a right of residence. Less stigma, support read as solidarity rather than failure
+Social-democratic regimes (Nordics): benefits are a right of residence. Less stigma, support read as solidarity rather than failure
 
 . . .
 
-So the welfare system shapes how poverty feels and how poor people are judged
+Welfare regimes are "moral environments": they shape how poverty feels and how poor people are judged
 
 ::: {.notes}
-- Four types of welfare state from Esping-Andersen: liberal (US, UK, Australia), conservative-corporatist (Germany, Austria, France), social-democratic (Nordics), Mediterranean (Spain, Italy). The paper calls them "moral environments": they carry narratives about who deserves help.
-- Liberal: since the 1980s welfare recast as "contractual citizenship", earned by behaviour. Some US states drug-test applicants for Temporary Assistance for Needy Families although positive rates are very low. UK: Universal Credit associated with worse mental health in quasi-experimental studies, sanctions with anxiety and depression. Public opinion moralises about specific groups: single parents seen as undeserving, the elderly and disabled as deserving. The "perversity thesis" (welfare creates poverty) works as a belief that justifies the system.
-- Germany: deservingness depends on having "paid in" through work and taxes, so people outside stable employment are seen as less deserving even with generous protection.
-- Nordics: universalism blurs the line between recipients and contributors, associated with reduced stigma, but suspicion re-emerges towards migrants, single mothers, young people, and solidarity can be redrawn as "for the nation only".
-- Southern Europe: the family is the safety net, and deservingness follows traditional categories, with immigrants ranked lowest.
-- All types are drifting towards the liberal model, faster since 2008. The paper's political implication: the Nordic model is "plausibly the most psychologically protective" configuration.
+- Four types from Esping-Andersen: liberal (US, UK, Australia), conservative-corporatist (Germany, Austria, France), social-democratic (Nordics), Mediterranean (Spain, Italy). A regime is "the institutional arrangement through which the state, the market, and the family share the responsibility for an individual's well-being", and it defines "to whom one is expected to turn in times of crisis: a caseworker, an employer, or a relative".
+- Liberal: since the 1980s welfare recast as "contractual citizenship", earned by behaviour. Some US states drug-test applicants for Temporary Assistance for Needy Families although positive rates are very low. UK: Universal Credit associated with worse mental health in quasi-experimental studies, sanctions with anxiety and depression. The "perversity thesis" (welfare creates poverty) works as a system-justifying belief.
+- Germany: deservingness depends on having "paid in". Nordics: universalism blurs the line between recipients and contributors, but suspicion re-emerges towards migrants, single mothers, young people. Southern Europe: the family is the safety net, immigrants ranked least deserving.
+- All types drifting towards the liberal model, faster since 2008.
 :::
 
 ---
 
-## 2. How benefits are designed
+## What psychology should do at this level
+
+. . .
+
+- Compare welfare regimes to find the institutional features that reduce stigma and moral suspicion and strengthen perceived security and belonging
+
+. . .
+
+- Study the psychological consequences of "liberalisation", the drift of every regime towards the US model
+
+. . .
+
+- Join the debate on how to organise society: on their reading, the social-democratic model is "plausibly the most psychologically protective"
+
+::: {.notes}
+- Section 3.6 of the paper, "Analyzing the psychological dimension of welfare institutional configurations indicates how to better structure society".
+- Their argument for why this is psychology's business: seeing that welfare capitalism varies, and that the variation tracks poverty levels, "reveals that societal conditions could be otherwise". Society stops being "a mere backdrop" for individual differences.
+- The social-democratic model is protective "not only because of its level of provision, but because of the narrative frame through which support is institutionalized": citizens as members of a communal unit rather than as individual market value. They also name alternatives to meritocracy as a moral language: the common good (Sandel), a rightful share of collective prosperity (Ferguson).
+- Liberalisation "should be scrutinized for its social and psychological consequences": it shifts poverty from a societal failure to an individual failure and polarises, as the poorest are "blamed and shamed".
+- Caveat they add: solidarity is bounded and can be mobilised to exclude, for example asylum seekers.
+:::
+
+---
+
+## Mesosystem: the design of social policies
 
 . . .
 
@@ -551,36 +573,102 @@ So the welfare system shapes how poverty feels and how poor people are judged
 **Whether there are conditions.** Having to prove you are looking for work lowers wellbeing and puts the blame on you
 
 ::: {.notes}
-- The paper's three processes: demarcation, default enrolment, dignity.
+- The paper's three psychological processes: demarcation, default enrolment, dignity.
 - Demarcation: experiments show that being labelled a recipient of a targeted unemployment benefit makes people seem less conscientious, less humane, less hardworking. Falling just outside a threshold deepens poverty for people with several marginalised statuses.
-- Defaults: automatic enrolment puts the burden on the state. Applying creates "hurry up and wait": reapplications and long waits. Young people in UK poverty asked for simpler processes and fewer documents, which are near-impossible for people fleeing conflict or domestic violence.
-- Dignity: having to perform worthiness is described as "structural violence". Conditions on benefits shift responsibility for basic needs from the state to the individual.
-- Their reading of the evidence: universal and unconditional provision is better for recipients' wellbeing, and not necessarily more expensive once the cost of eligibility checking is counted.
-- Also under this heading: the labour market decides who becomes poor before any benefit. Working poverty is growing, precarious contracts push risk onto workers, and strong unions raise wages and job quality for union and non-union workers alike. The paper notes psychology's "lack of scholarly attention and even antagonism" towards unions.
+- Defaults: automatic enrolment puts the burden on the state. Applying creates "hurry up and wait". Young people in UK poverty asked for simpler processes and fewer documents.
+- Dignity: having to perform worthiness is "structural violence". Conditions shift responsibility for basic needs from the state to the individual ("responsibilization").
+- Predistribution: the labour market decides who becomes poor before any benefit. Working poverty is growing, precarious contracts push risk onto workers, strong unions raise wages and job quality for union and non-union workers alike.
 :::
 
 ---
 
-## 3. The daily conditions of being poor
+## What psychology should do at this level
 
 . . .
 
-Scarce resources, unsafe surroundings, and above all unpredictability: income, work hours, housing, childcare
+- Evaluate policy features for their psychological effects: universal versus means-tested, unconditional versus conditional, through demarcation, default enrolment and dignity
 
 . . .
 
-In such an environment, taking the money now and avoiding risks is sensible, not a failure of self-control
+- Study predistribution: how precarious work and collective bargaining rights shape the experience of people at risk of poverty, including the "benefits and pitfalls" of labour-market reforms
+
+. . .
+
+- Build causal evidence, because "research on its psychological dimension is sparse and limited in causal insight"
+
+::: {.notes}
+- Section 4.4, "Analyzing the psychological dimension of distributive policy design indicates how to do it more effectively and equitably".
+- Their reading of the evidence: universal provision is more supportive of psychological wellbeing, reduces stigma, cuts the stress of administrative complexity and gatekeeping, and is not necessarily more expensive once eligibility checking is counted. Universal basic income is their example, more endorsed where unemployment benefits are low or contracts temporary.
+- Predistribution: zero-hours contracts in the UK are linked to worse mental health, and the Employment Rights Bill would ban "exploitative" ones. Unions increase workers' "voice" and sense of control. The paper notes psychology's "lack of scholarly attention and even antagonism" towards unions, especially in the US. Open question they flag: unions can protect "core" workers while excluding "peripheral" ones, so more research is needed on both sides.
+- Their framing of the meso level: the rights and responsibilities placed on people in poverty measure "the level of institutional harshness they need to endure", and the implementation of protection determines "the predictability of the psychological terrain" they navigate.
+:::
+
+---
+
+## Microsystem: the daily conditions of being poor
+
+. . .
+
+Harshness: scarce resources, unsafe surroundings, pollution and heat. Unpredictability: income, work hours, housing, childcare
+
+. . .
+
+In such an environment, taking the money now and avoiding risks is adaptive, not a failure of self-control
 
 . . .
 
 Some famous lab effects may be artefacts: in the scarcity games, "rich" participants rarely needed to borrow at all
 
 ::: {.notes}
-- Two features of these environments in the paper's terms: harshness (deprivation and threat, including exposure to pollution and heat) and unpredictability (daily chaos, changing shifts, unreliable childcare, frequent moves, teacher turnover).
-- The reinterpretation, drawing on behavioural ecology: future discounting and risk aversion are adaptive when the future is uncertain and control is low. Kidd et al.: children became more impulsive in the marshmallow test after an adult had been unreliable. Lower perceived control among the poor is "arguably an accurate appraisal of objective disempowerment".
-- Poverty is then a double disadvantage: the direct harm of the conditions, plus strategies that help in the short term and cost in the long term.
-- The caveat is the paper's own: do not read a structural constraint as a psychological shift. A reanalysis by tho Pesch and colleagues of the Shah, Mullainathan and Shafir data finds the "overborrowing" result reflects the task, because participants in the rich condition rarely had to borrow. Some scarcity findings have also failed to replicate.
-- Policy conclusion of this section: "the critical point of intervention should be the environment itself." Examples given: housing inspections for damp and mould, lower traffic emissions, payment schedules that match short-term needs.
+- Harshness: deprivation-based (insufficient food, shelter, healthcare) and threat-based (violence, injury, toxins, extreme heat). Unpredictability: "daily chaos", changing shifts, unreliable childcare, frequent moves, teacher turnover.
+- The reinterpretation, from behavioural ecology: future discounting and risk aversion are adaptive when the future is uncertain and control is low. Kidd et al.: children became more impulsive in the marshmallow test after an adult had been unreliable. Lower perceived control among the poor is "arguably an accurate appraisal of objective disempowerment". A shift from exploration to exploitation in children's learning strategies.
+- Poverty as a double disadvantage: the direct harm of the conditions, plus strategies that help in the short term and cost in the long term.
+- The caveat is the paper's own: a reanalysis by tho Pesch and colleagues of the Shah, Mullainathan and Shafir data finds the "overborrowing" result reflects the task, because participants in the rich condition rarely had to borrow. Some scarcity findings have failed to replicate.
+:::
+
+---
+
+## What psychology should do at this level
+
+. . .
+
+- Intervene on the environment, not the person: predictable income, safe housing and workplaces, child poverty first
+
+. . .
+
+- Redesign settings that penalise people adapted to adversity: test questions, class-sensitive teaching, payment schedules, simple application processes
+
+. . .
+
+- Rule out structural constraints before invoking a psychological shift
+
+::: {.notes}
+- Section 5.3, "Analyzing the psychological dimension of material and social conditions indicates the importance of improving such conditions".
+- "To the extent that harmful behavioral patterns are responsive to environments of material and social adversity, the critical point of intervention should be the environment itself." Child poverty is the priority because early exposure has the most enduring effects.
+- Health example: despite the persistent idea in psychology and healthcare that the health of low-income groups is behaviourally determined, health policy and epidemiology point to structural interventions. Reducing extrinsic mortality risk in deprived settings "might be more effective in changing health behaviors" than nudges designed with middle-class settings in mind. Concrete: inspecting rental properties for damp and mould, reducing traffic emissions, which also raise the sense that one's health is under one's control and worth investing in.
+- Settings: whether test questions on everyday topics (money, food) impair performance for low-SES students; teaching that emphasises interdependence rather than middle-class independence norms; benefits that are "easily accessible, timely, and responsive to short-term needs", for example the UK's flexible payment frequency; simplicity and clarity in voting, admissions, loan applications.
+- Structural constraints first: where liquidity constraints prevent the option that pays off in the long run (their own graduate job choice study), "either the material conditions, or the choice options, or both, need to be improved".
+:::
+
+---
+
+## So what changes for psychological research on poverty?
+
+. . .
+
+**The object of study.** From the behaviour of people in poverty to the psychological consequences of institutions and policies
+
+. . .
+
+**The direction.** From inside-out to outside-in
+
+. . .
+
+**The role.** From improving the decisions of the poor to evaluating policy designs and studying the politics that could change them
+
+::: {.notes}
+- Is this a passive programme, studying how poverty affects people rather than how to end it? Partly. Most of the paper is descriptive: what each institutional feature does to people. The intervention role it keeps for psychology is twofold. First, evaluation: psychology tells policymakers which institutional designs are less harmful, with a clear preference for universal, unconditional, automatic provision and for changing environments rather than people. Second, the politics of change: who supports which policies and why, and what stops political actors from acting. Those are the research agenda on the next slide.
+- Their own summary: "psychology can be a part not only of making poverty tolerable or escapable, but of ending it altogether."
 :::
 
 ---
@@ -593,13 +681,22 @@ Interventions on individuals can make poverty easier to bear or to escape. They 
 
 . . .
 
-Where psychology could help end it: why publics see the poor as undeserving, what makes people join unions or vote for universal policies, why politicians fail to enact what they advocate
+Their research agenda for ending it:
+
+::: {.incremental}
+- quasi-experimental and longitudinal comparisons of how different welfare logics shape psychological processes over time
+- economic games whose institutional rules mimic different political and economic configurations
+- how to promote participation in labour unions and collective movements
+- the psychological foundations of voting for egalitarian or universalist platforms
+- the psychology of policymakers: why they fail to implement what they advocate
+:::
 
 ::: {.notes}
-- The section title is theirs. Closing sentence of the paper: psychology as part "not only of making poverty tolerable or escapable, but of ending it altogether."
-- Their research agenda: compare countries with different welfare systems using longitudinal and quasi-experimental designs; economic games whose rules mimic different institutional arrangements; the psychology of participation in unions and collective movements; the psychological foundations of voting for egalitarian platforms; the psychology of policymakers, and what stops them from implementing the changes they advocate.
-- Also: the distinction between inequalities people chose (option luck) and inequalities imposed on them (brute luck) collapses once choices are constrained by conditions others created.
-- This is where the paper meets Brady's framework: Brady's causes are power, policy and institutions, and he notes the US public's "uniquely strong individualistic ideology" without studying it. The public psychology that keeps penalties high is the open question for this room.
+- Section 6.1 and 6.2 of the paper. "Promoting upward mobility and making a society more meritocratic are valuable goals, but they should not be conflated with the goal of reducing poverty at the population level." The "psychological poverty trap" is "empirically unsubstantiated" at that level.
+- Crowding out: Hagmann et al. 2019, telling people about a green-energy nudge reduced support for a carbon tax. They apply the same worry to poverty.
+- The agenda items are quoted from section 6.2, which also mentions attention to gender, ethnicity and migration status, and the psychology of capitalism itself against alternative systems (Bettache). Burns and Kraus 2025 is their example of work on union participation, Druckman et al. 2023 of work on policymakers (polarisation).
+- Luck egalitarianism: the distinction between inequalities people chose (option luck) and inequalities imposed on them (brute luck) collapses once choices are constrained by conditions others created.
+- Where this meets Brady: his causes are power, policy and institutions, and he notes the US public's "uniquely strong individualistic ideology" without studying it. The public psychology that keeps penalties high is the open question for this room.
 :::
 
 # 5. Discussion
