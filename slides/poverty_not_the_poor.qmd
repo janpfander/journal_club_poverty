@@ -133,7 +133,7 @@ Brady asks why the United States has so much **poverty**. [@bradyPovertyNotPoor2
 
 ## A huge share of the population
 
-![Brady (2023), Fig. 1](figures/fig1.jpeg){.card fig-align="center" width="80%"}
+![Millions of people in the United States experiencing major social problems (2019 or 2020). Far more people are in poverty than experience more visible problems. Brady (2023), Fig. 1.](figures/fig1.jpeg){.card fig-align="center" width="80%"}
 
 ::: {.notes}
 - 2019: 17.5% of the US population, about 57.4 million people, were poor.
@@ -146,7 +146,7 @@ Brady asks why the United States has so much **poverty**. [@bradyPovertyNotPoor2
 
 ## A perennial outlier
 
-![Brady (2023), Fig. 2](figures/fig2.jpeg){.card fig-align="center" width="85%"}
+![Poverty rate in the United States (solid line) and the median of 19 other rich democracies (dashed line, with ± one cross-national SD), 1980–2020. Brady (2023), Fig. 2.](figures/fig2.jpeg){.card fig-align="center" width="85%"}
 
 ::: {.notes}
 - Solid line: US, every year near its average of 17%. Dashed: median of 18 other rich democracies, average 8.8% over the period.
@@ -159,7 +159,7 @@ Brady asks why the United States has so much **poverty**. [@bradyPovertyNotPoor2
 
 ## Staggeringly high for some groups
 
-![Brady (2023), Fig. 3](figures/fig3.jpeg){.card fig-align="center" height="520"}
+![Child poverty rates for U.S. ethno-racial groups (2016–2020) and for 30 rich democracies, with 95% CIs. Dashed line: median child poverty rate across the 30 rich democracies. Brady (2023), Fig. 3.](figures/fig3.jpeg){.card fig-align="center" height="490"}
 
 ::: {.notes}
 - Child poverty. Black children 33.5%, Latino children 29.8%, Native American children 29.4%.
@@ -173,7 +173,7 @@ Brady asks why the United States has so much **poverty**. [@bradyPovertyNotPoor2
 
 ## Unexpectedly high for those who "play by the rules"
 
-![Brady (2023), Fig. 5](figures/fig5.jpeg){.card fig-align="center" height="520"}
+![Poverty rates for the overall population and for non-risk groups among working-aged households (HHs), United States (2016–2020) versus the cross-national (CN) median of 31 rich democracies. Dotted line: CN median for the overall population. Brady (2023), Fig. 5.](figures/fig5.jpeg){.card fig-align="center" height="490"}
 
 ::: {.notes}
 - Non-risk groups among working-aged households, US versus the cross-national (CN) median of 31 rich democracies.
@@ -188,7 +188,7 @@ Brady asks why the United States has so much **poverty**. [@bradyPovertyNotPoor2
 
 ## Pervasive across groups and places
 
-![Brady (2023), Fig. 6](figures/fig6.jpeg){.card fig-align="center" height="520"}
+![Poverty rates for age groups, adult women and men, regions and places in the United States (2016–2020). Dotted line: cross-national median poverty rate for the overall population. Brady (2023), Fig. 6.](figures/fig6.jpeg){.card fig-align="center" height="490"}
 
 ::: {.notes}
 - Highest among under 18s and over 64s, in the South, central cities and rural areas.
@@ -252,7 +252,23 @@ The US does not stand out on prevalences. It has the highest penalties of any ri
 
 ## (ii) Dramatizing the poor
 
-![Brady (2023), Fig. 7](figures/fig7.jpeg){.card fig-align="center" height="520"}
+. . .
+
+- Ethnography and intensive interviews: vivid, often shocking accounts of the daily lives of poor individuals (*Evicted*, *$2.00 a Day*, *On the Run*)
+
+. . .
+
+- The theory of change: humanising the poor evokes compassion, and compassion shifts the policy agenda
+
+. . .
+
+- Brady's critique: it overrepresents stereotypical groups, studies symptoms (eviction) rather than causes, and downplays effective policy
+
+---
+
+## Who is actually poor?
+
+![Share of the U.S. population in poverty (2016–2020) that belongs to stereotypical versus typical groups. Brady (2023), Fig. 7.](figures/fig7.jpeg){.card fig-align="center" height="490"}
 
 ::: {.notes}
 - Second approach: ethnography and intensive interviews that humanise the poor through vivid, often shocking narratives. Evicted, $2.00 a Day, On the Run, Gang Leader for a Day.
@@ -270,15 +286,15 @@ The US does not stand out on prevalences. It has the highest penalties of any ri
 
 . . .
 
-Old version: a pathological culture causes behaviour that causes poverty
+- The argument: a problematic culture causes counterproductive behaviour, which causes poverty, which feeds back into the culture, often across generations
 
 . . .
 
-New version (2010): "frames", "scripts", "repertoires" cause behaviour that causes poverty
+- Discredited after the 1960s, revived in 2010 by "new culturalists" with a new vocabulary: frames, scripts and repertoires instead of values and norms
 
 . . .
 
-Same problems: endogeneity, no comparison groups, never tested against rival explanations
+- Same problems as before: endogeneity, poor neighbourhoods studied without comparison groups, never tested against rival explanations, and no account of why poverty is high in the first place
 
 ::: {.notes}
 - Old culture-of-poverty work collapsed under logical and evidentiary problems, not just political controversy: endogenous (if culture causes poverty and poverty causes culture, what causes the high poverty in the first place?), selection on poor people and poor neighbourhoods, stereotypes from elite white male academics. Evidence long shows the poor do not hold anti-marriage or anti-school values.
@@ -315,7 +331,7 @@ Power and institutions make policy. Policy makes poverty.
 
 ## Social policy generosity
 
-![Brady (2023), Fig. 8](figures/fig8.jpeg){.card fig-align="center" width="85%"}
+![Predicted poverty rates from a two-way fixed-effects model of social welfare spending (% of GDP) in 20 rich democracies, 1980–2019, with 95% CIs, overlaid with the actual U.S. minimum (1980), median (2006) and maximum (1984) poverty rates. Brady (2023), Fig. 8.](figures/fig8.jpeg){.card fig-align="center" width="85%"}
 
 ::: {.notes}
 - "There has never been a country in the modern history of capitalist democracies that accomplished sustainably low poverty without a large welfare state."
@@ -512,7 +528,7 @@ A research agenda: deservingness and system justification, unions, universalist 
 
 ## Child poverty over time
 
-![Brady (2023), Fig. 4](figures/fig4.jpeg){.card fig-align="center" width="85%"}
+![Child poverty rates for Black (solid), Latino (dashed) and white (dotted) children in the United States, 1970–2019, with 95% CIs. Brady (2023), Fig. 4.](figures/fig4.jpeg){.card fig-align="center" width="85%"}
 
 ::: {.notes}
 - Black child poverty near 50% and Latino child poverty above 45% in the mid-1980s, an increase from the 1970s. Only recently down to near 30%.
@@ -523,7 +539,7 @@ A research agenda: deservingness and system justification, unions, universalist 
 
 ## Immigrant and citizenship status
 
-![Brady (2023), Fig. 9](figures/fig9.jpeg){.card fig-align="center" height="520"}
+![Poverty rates by immigrant and citizenship status of the household, United States (2016–2020) versus the cross-national median of 24 rich democracies. Dotted line: CN median for the overall population. Brady (2023), Fig. 9.](figures/fig9.jpeg){.card fig-align="center" height="490"}
 
 ::: {.notes}
 - Immigrant-led households in the US: 22.1%. Citizen immigrant households similar to the overall population. Noncitizen immigrant households: 28.4%.
