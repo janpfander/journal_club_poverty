@@ -62,7 +62,11 @@ Brady asks why the United States has so much **poverty**. [@bradyPovertyNotPoor2
 :::
 
 ::: {.fragment fragment-index=4}
-4. Discussion
+4. Perspectives for psychology
+:::
+
+::: {.fragment fragment-index=5}
+5. Discussion
 :::
 
 # 1. Systemically high poverty
@@ -345,28 +349,136 @@ Explanations that start from power, policy and institutions can
 - The claim at the end: political explanations are more likely to lead to effective policy.
 :::
 
-# 4. Discussion
+# 4. Perspectives for psychology
+
+## {.big-center}
+
+::: {.statement}
+Can psychology, a discipline whose unit is **the individual**, help study poverty rather than the poor?
+:::
+
+::: {.notes}
+- Transition. Brady's reference list has 164 entries and almost no psychology. The implicit answer is that psychologists "pack up their things and yield the floor", as Sheehy-Skeffington and colleagues put it.
+- One recent attempt at an answer: Sheehy-Skeffington, Buzan, Cano, tho Pesch and Rea (2026), Social Issues and Policy Review. Written explicitly in response to Brady.
+:::
+
+---
+
+## A psychological reply to Brady [@sheehy-skeffingtonBringingWiderSocioecological2026]
+
+. . .
+
+Concedes the diagnosis: psychology has studied the behaviour of people in poverty, not poverty
+
+. . .
+
+Keeps the discipline: from the "i-frame" to the "s-frame"
+
+. . .
+
+Reverses the direction: "outside-in" rather than "inside-out"
+
+::: {.notes}
+- Their own words: "psychological research has largely fixated on what explains the behaviors of people living in poverty, rather than on what explains poverty itself (see Brady 2023)."
+- Context: 15 years of growth in the psychology of poverty since Mullainathan and Shafir, with policy uptake (Behavioural Insights Team, World Bank). The authors include their own earlier work in the critique.
+- i-frame and s-frame are Chater and Loewenstein's terms: explaining and intervening at the level of the individual versus the system.
+- Inside-out: start from the individual in poverty, then ask what can be done around them. Outside-in: start from institutions and ideology, narrow down to the proximal experience.
+- Framework: Bronfenbrenner's ecological systems (micro, meso, exo, macro), plus socioecological psychology (Oishi) and behavioural ecology, plus comparative political economy.
+:::
+
+---
+
+## Outside-in: three layers
+
+. . .
+
+**Macro and exo.** Welfare regimes as "moral environments": liberal, corporatist, social-democratic, Mediterranean
+
+. . .
+
+**Meso.** Policy design: universal or targeted, conditional or unconditional, predistribution
+
+. . .
+
+**Micro.** The proximal conditions of poverty: harshness and unpredictability
+
+::: {.notes}
+- Welfare regimes (Esping-Andersen): not just resource allocation but "what it means to be a member of society". Each regime activates different schemas of dependency, autonomy, obligation.
+- Liberal (US, UK): conditional "contractual citizenship", support must be earned, drug testing for TANF applicants, UK benefit sanctions linked to worse mental health. The "perversity thesis" (welfare creates poverty) works as a system-justifying ideology.
+- Corporatist (Germany): deservingness organised around having "paid in". Social-democratic (Nordics): universalism, state support as solidarity, less stigma, but welfare chauvinism towards migrants. Mediterranean: families as the buffer, deservingness by traditional categories.
+- Liberalisation: all regimes drifting towards the liberal model, accelerated after 2008.
+- Policy design works through three psychological processes: demarcation (eligible versus not, which itself triggers stereotypes), default enrolment (administrative burden, "hurry up and wait"), dignity (having to perform worthiness as "structural violence"). Universal and unconditional provision comes out better on all three.
+- Predistribution: precarious work and collective bargaining. The paper notes psychology's "lack of scholarly attention and even antagonism" towards unions, which echoes Brady's point that poverty research neglects them.
+- Micro: harshness (deprivation and threat) and unpredictability (daily chaos, precarious schedules, relocation).
+:::
+
+---
+
+## Rereading the scarcity literature
+
+. . .
+
+Future discounting, risk aversion, "bandwidth": **adaptive shifts** to harsh, unpredictable environments, not deficits
+
+. . .
+
+The flagship lab result does not survive reanalysis: "overborrowing" under scarcity reflects the task, not tunnelling
+
+::: {.notes}
+- This is the paper's answer to Brady's attack on Shah, Mullainathan and Shafir. Rather than deny the findings, reinterpret them through behavioural ecology (Frankenhuis, Nettle): when the future is uncertain and control is low, preferring sooner rewards is rational. Kidd et al.: children become more impulsive in the marshmallow test after unreliable adults.
+- Poverty is then a double disadvantage: the direct harm of conditions, plus strategies that help short-term and hurt long-term.
+- But the authors also warn against over-reading: structural constraints on a decision must not be mistaken for psychological shifts. A reanalysis by tho Pesch and colleagues (in press) of the Shah et al. data finds that participants in the "rich" condition rarely needed to borrow at all, so the borrowing difference reflects task design.
+- They also note that some scarcity findings failed to replicate (O'Donnell et al. 2021).
+- Policy conclusion from this section: "the critical point of intervention should be the environment itself."
+:::
+
+---
+
+## Helping the poor or fighting poverty?
+
+. . .
+
+Interventions that help individuals move up do not lower the poverty rate
+
+. . .
+
+Behavioural framings may **crowd out** support for structural policy
+
+. . .
+
+A research agenda: deservingness and system justification, unions, universalist voting, the psychology of policymakers
+
+::: {.notes}
+- Section title is theirs. Mobility and meritocracy are valuable goals but "should not be conflated with the goal of reducing poverty at the population level". That is Brady's musical chairs restated.
+- The "psychological poverty trap" assumption is called "empirically unsubstantiated" at the population level, with Brady's cross-national evidence as the reason.
+- Crowding out: Hagmann et al. 2019, making people aware of a green-energy nudge reduced support for a carbon tax. The paper extends the worry to poverty, with Chater and Loewenstein. Both papers compare poverty to climate change as a structural problem.
+- Luck egalitarianism: the option-luck versus brute-luck distinction collapses once choices are constrained by the socioecology, so "voluntary" choices of the poor carry the responsibilities of others.
+- Where psychology could enter Brady's framework: the public psychology that sustains penalties (deservingness, perversity thesis), participation in unions and collective movements, voting for egalitarian platforms, and why policymakers fail to implement what they advocate.
+- Closing line of the paper: psychology as part "not only of making poverty tolerable or escapable, but of ending it altogether."
+:::
+
+# 5. Discussion
 
 ## Discussion points
 
 ::: {.incremental}
-- Scarcity-mindset research is the paper's archetype of "fixing the poor". Fair? What would a behavioural science of *poverty* rather than *the poor* look like?
+- Is "outside-in" a new question or the old question with more context variables? Where does the individual remain the unit of analysis in Sheehy-Skeffington et al.?
 
-- "Who is poor" is not "why is there poverty". Where does our own work answer the first question and present it as the second?
+- Deficit versus adaptation: does reinterpreting scarcity effects as adaptive move the lever to the environment, or just make the behavioural story more sympathetic?
 
-- A single-country literature on an outlier. The same logic as the WEIRD critique, turned on US poverty research. Where are we in the same position?
+- Shah et al. 2012 is hit twice, conceptually by Brady and empirically by the reanalysis. What survives of the scarcity-mindset programme?
 
-- Brady's evidence is cross-national and observational. He faults behavioural work for weak causal identification. Does he meet his own standard?
+- Both papers claim narratives have political effects (dramatizing backfires, nudges crowd out structural support). Neither tests it for poverty. Could we?
 
-- "It has never really been proven that poverty scholarship ... has much influence on policy-makers or public opinion." That is a testable psychological claim.
+- Climate is the analogy both papers reach for. Is the individual-behaviour framing of climate action the trap Brady describes, and are we in it?
 :::
 
 ::: {.notes}
-- Shah, Mullainathan and Shafir (2012) are named explicitly, as are Bertrand, Mullainathan and Shafir (2004) and Gennetian and Shafir (2015). Brady's objection is construct validity (video games as scarcity) and that the feedback-loop story cannot explain why the US has high poverty in the first place.
-- Type III error: "the right answer for the wrong question" (Schwartz and Carpenter 1999 is cited for this).
-- Henrich, Heine and Norenzayan (2010) is in Brady's reference list, cited for American individualism.
-- On causality: Fig. 8 is a fixed-effects regression on spending. Brady argues the external validity of a pattern replicated across many samples outweighs the internal validity of any one local effect. Worth discussing whether that is persuasive.
-- Last point connects to intervention research: if penalties are set politically, what is the role of individual-level interventions? Analogy to our megastudy, where interventions move an attitude but not the downstream outcomes.
+- Point 1: a third of the new paper is still the microsystem and "psychological shifts". Brady would call that studying the poor.
+- Point 2: the authors' own caution applies: structural constraints on a decision are not psychological shifts.
+- Point 3: Brady's objection is construct validity (video games as scarcity) and that feedback loops cannot explain why the US has high poverty in the first place. The reanalysis adds that the task itself produced the effect.
+- Point 4: Brady says it "has never really been proven" that poverty scholarship moves policy-makers or public opinion. Hagmann et al. is the climate template. A poverty version is a feasible survey experiment.
+- Point 5: link to the megastudy. Interventions that move an attitude without moving downstream outcomes, and the question of which goal an individual-level intervention serves.
 :::
 
 ## References
