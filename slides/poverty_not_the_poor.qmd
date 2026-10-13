@@ -200,7 +200,19 @@ Brady asks why the United States has so much **poverty**. [@bradyPovertyNotPoor2
 ## {.big-center}
 
 ::: {.statement}
-(i) fixing the poor · (ii) dramatizing the poor · (iii) cultural explanations
+(i) fixing the poor
+:::
+
+. . .
+
+::: {.statement}
+(ii) dramatizing the poor
+:::
+
+. . .
+
+::: {.statement}
+(iii) cultural explanations
 :::
 
 ::: {.notes}
@@ -211,9 +223,12 @@ Brady asks why the United States has so much **poverty**. [@bradyPovertyNotPoor2
 
 Behavioural explanations: the poor are poor because they more often carry one of four risks
 
-. . .
-
-  joblessness · low education · young headship · single motherhood
+::: {.incremental}
+- joblessness
+- low education
+- young headship
+- single motherhood
+:::
 
 . . .
 
