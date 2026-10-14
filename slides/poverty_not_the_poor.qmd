@@ -211,7 +211,13 @@ Brady asks why the United States has so much **poverty**. [@bradyPovertyNotPoor2
 
 ## (i) Fixing the poor
 
-Behavioural explanations: the poor are poor because they more often carry one of four risks
+“who is poor” explains “why there is poverty”
+
+---
+
+## (i) Fixing the poor
+
+The poor are poor because they adopt the wrong behaviors: 
 
 ::: {.incremental}
 - joblessness
@@ -242,7 +248,7 @@ Anti-poverty strategy: reduce the share of the population with these risks
 
 . . .
 
-The US does not stand out on prevalences. It has the highest penalties of any rich democracy.
+The United States does not stand out for having high prevalences but does stand out for having the highest penalties among rich democracies.
 
 ::: {.notes}
 - Framework from Brady, Finnigan and Hübgen (2017). Three critiques of behavioural explanations:
@@ -257,7 +263,6 @@ The US does not stand out on prevalences. It has the highest penalties of any ri
 
 ## (ii) Dramatizing the poor
 
-. . .
 
 - Ethnography and intensive interviews: vivid, often shocking accounts of the daily lives of poor individuals (*Evicted*, *$2.00 a Day*, *On the Run*)
 
@@ -267,7 +272,21 @@ The US does not stand out on prevalences. It has the highest penalties of any ri
 
 . . .
 
-- Brady's critique: it overrepresents stereotypical groups, studies symptoms (eviction) rather than causes, and downplays effective policy
+Brady's critique: 
+
+- Drama focuses on individuals: their life history, unfortunate circumstances, or counterproductive behavior that caused such dire straits
+
+- "Many have tremendous compassion for the poor but maintain an individualistic theory of the causes of and solutions for poverty."
+
+- Drama overrepresents stereotypical groups, focuses on symptoms (eviction), and downplays effective policy
+
+---
+
+## Who is actually poor?
+
+::: {.statement}
+*If one were to construct a composite “typical” poor person in the United States based on the most common populations in multiple categories, it would be a white, 35- to 45-year-old woman, with a high school education, in a coupled and employed household with no children, and living in a metropolitan area in the South.*
+:::
 
 ---
 
@@ -291,15 +310,15 @@ The US does not stand out on prevalences. It has the highest penalties of any ri
 
 . . .
 
-1. People in poverty share a distinct culture: values and norms in the old version, "frames, scripts and repertoires" in the new one
+- People in poverty share a distinct culture
 
 . . .
 
-2. That culture produces behaviour that keeps them poor: not finishing school, not marrying, not working
+- That culture produces behaviour that keeps them poor: not finishing school, not marrying, not working
 
 . . .
 
-3. Poverty then reinforces the culture, and passes it on to the next generation
+- Poverty then reinforces the culture, and passes it on to the next generation
 
 ::: {.notes}
 - A behavioural explanation with culture as the upstream cause: culture causes behaviour, behaviour causes poverty, poverty feeds back into culture.
@@ -323,7 +342,7 @@ The US does not stand out on prevalences. It has the highest penalties of any ri
 
 . . .
 
-- **Wrong answer.** The evidence points to employer discrimination and segregated, lower-quality schools, not to the values of the poor
+- **Wrong answer.** Evidence points to, e.g., employer discrimination and segregated, lower-quality schools, not to the values of the poor
 
 ::: {.notes}
 - Endogeneity: the feedback loop cannot explain the starting conditions. Cultural explanations "never really even attempted to explain systemically high poverty" and habitually omit the historical and institutional context.
@@ -341,57 +360,178 @@ The US does not stand out on prevalences. It has the highest penalties of any ri
 Poverty is a problem of **distribution**, not scarcity.
 :::
 
-. . .
-
-::: {.statement}
-Power and institutions make policy. Policy makes poverty.
-:::
-
 ::: {.notes}
-- Rich democracies have abundant resources. Poverty exists because they are not well distributed, and distributions are shaped by politics.
+- Rich democracies have abundant resources. Poverty exists because they are not well distributed, and distributions are shaped by politics. Sen on famines: resources are available nearby, which is why famines are almost always prevented in functioning democracies.
 - Rank's musical chairs: too few chairs (good jobs), not the players' quickness, explains who is left standing. Brady's version: not too few chairs, one person is lying across three, several are piled broken in a corner, and someone is told there is no seat because of a "scarcity".
 - Distinction from "structural" explanations (deindustrialisation, labour markets): "structuralists view poverty as the unfortunate byproduct of contextual factors ... political accounts view poverty as the willfully chosen outcome of state (in)action when something could be done."
-- Rather than risks causing poverty, policy and institutions moderate the link between risks and poverty.
 - Rise of this literature after about 2000, enabled by LIS data. "Poverty scholars who only know one country, know no country."
 :::
 
 ---
 
-## Social policy generosity
+## The political account in one line
 
-![Predicted poverty rates from a two-way fixed-effects model of social welfare spending (% of GDP) in 20 rich democracies, 1980–2019, with 95% CIs, overlaid with the actual U.S. minimum (1980), median (2006) and maximum (1984) poverty rates. Brady (2023), Fig. 8.](figures/fig8.jpeg){.card fig-align="center" width="85%"}
+. . .
+
+**Power** and **institutions** make **policy**. Policy makes **poverty**.
+
+. . .
+
+Risks do not cause poverty by themselves. Policy and institutions decide how much a risk costs.
+
+. . .
+
+Individuals are poor largely *because* poverty is systemically high, not the other way round.
 
 ::: {.notes}
-- "There has never been a country in the modern history of capitalist democracies that accomplished sustainably low poverty without a large welfare state."
-- Fig. 8: two-way fixed-effects model (country, year), 20 rich democracies, 1980 to 2019, poverty on social welfare spending as a percent of GDP and its square.
-- The actual US minimum (1980), median (2006) and maximum (1984) poverty rates fall almost exactly on the predicted line. The US is always in the upper left: high poverty, low spending.
-- Holds whether generosity is measured as legislated social rights, transfers received, or total spending. Monetising Medicaid shows the ACA expansion reduced poverty.
-- COVID: extended unemployment insurance, expanded Child Tax Credit and relief payments made poverty considerably lower.
-- Implementation matters too: administrative burden, racial disparities in access.
+- "Indirectly, power and institutions cause policy, which causes poverty. Power and institutions also reinforce each other."
+- "Rather than presuming that risks cause poverty like behavioralists, political explanations emphasize that policy and institutions moderate the relationship between risks and poverty."
+- "Political explanations see individuals as poor largely because of that systemically high poverty."
 :::
 
 ---
 
-## Three more political themes
+## Four themes
 
-. . .
-
-**Penalties are political choices.** Countries decide which risks to protect.
-
-. . .
-
-**Power resources.** Unions, Left parties, women in parliament push for generous policy.
-
-. . .
-
-**Institutions.** Slavery, segregation, federalism, criminal justice, citizenship law.
+::: {.spaced .incremental}
+- (a) **Social policy generosity** is a requirement for low poverty
+- (b) **Penalties** on risks are political choices
+- (c) **Power resources**: who is organised enough to win generous policy
+- (d) **Institutions**: laws and rules that lock in the past
+:::
 
 ::: {.notes}
-- Penalties: more than three times as much cross-national variation in single-motherhood penalties as in prevalences. The US does not have a high prevalence of single motherhood, it has the highest penalty. Not acting is a choice just like acting.
-- Power resources: the default distribution of power in a capitalist democracy favours elites and business, so the less advantaged need to organise. Poverty is lower where Left parties govern, unionisation is higher, and women are a larger share of parliaments. VanHeuvelen and Brady (PSID 1976 to 2015): household union membership and state unionisation both reduce poverty and reinforce each other, spilling over to non-union households. Brady conjectures low unionisation is a more salient cause of poverty than eviction.
-- Also: skepticism about the political theory behind dramatizing. No evidence that Americans are less compassionate, strong evidence they are uniquely individualistic, and no proof that poverty scholarship influences policy-makers.
-- Institutions: path dependency, "residue of the power of collective actors in the past". Labour market institutions, minimum wages, citizenship rules. Immigrant-led households 22.1% poverty, noncitizen immigrant households 28.4% (Fig. 9 in backup). Baker and colleagues: nativity and citizenship explain the largest share of Latino-white and Asian-white poverty gaps.
-- Racism: state-supported segregation (Massey and Denton). Baker's historical racial regimes in the South: Black poverty and the Black-white gap rise with a state's HRR score, white poverty does not. Political explanations put racism at the centre, the three prevailing approaches barely mention it (Small et al. one mention, Harding one index entry).
+- Brady: "Within political explanations, there have been at least four concrete themes." The next slides take them in turn.
+:::
+
+---
+
+## (a) Social policy generosity
+
+. . .
+
+> There has never been a country in the modern history of capitalist democracies that accomplished sustainably low poverty without a large welfare state.
+
+. . .
+
+The relationship holds however generosity is measured, and across countries, years, and US states.
+
+::: {.notes}
+- "The strongest and most robust generalization to emerge from recent decades of political research on poverty."
+- Holds whether generosity is measured as legislated social rights, transfers actually received, or total welfare spending. "Generosity" is shorthand for more universal programmes with high replacement rates, lower eligibility thresholds and high coverage.
+- Monetising Medicaid shows the ACA expansion substantially reduced poverty and economic insecurity.
+- COVID: extended unemployment insurance, expanded Child Tax Credit and relief payments made poverty considerably lower.
+- Implementation matters too: administrative burden, and racial disparities in access, are key drivers of racial inequalities in poverty.
+- Brady stresses this is an externally valid generalisation built from many studies, beyond the internal validity of any single local causal effect.
+:::
+
+---
+
+## (a) Social policy generosity
+
+![Predicted poverty rates from a two-way fixed-effects model of social welfare spending (% of GDP) in 20 rich democracies, 1980–2019, with 95% CIs, overlaid with the actual U.S. minimum (1980), median (2006) and maximum (1984) poverty rates. Brady (2023), Fig. 8.](figures/fig8.jpeg){.card fig-align="center" width="85%"}
+
+::: {.notes}
+- Fig. 8: two-way fixed-effects model (country, year), 20 rich democracies with OECD and LIS data, 1980 to 2019, poverty on social welfare spending as a percent of GDP and its square.
+- The actual US minimum (1980), median (2006) and maximum (1984) poverty rates fall almost exactly on the predicted line. The US is always in the upper left: high poverty, low spending.
+- "The United States has systemically high poverty because it has low social welfare spending." Presently the best explanation for why America has systemically high poverty.
+:::
+
+---
+
+## (b) Penalties are political choices
+
+. . .
+
+Behaviouralists assume a mechanical link from risk to poverty, so they try to reduce the *prevalence* of risks.
+
+. . .
+
+Political explanations: states decide which risks are protected. The *penalty* varies across countries and is politically manipulable.
+
+. . .
+
+Not acting is a choice just like acting is a choice.
+
+::: {.notes}
+- "Political choices" means a realistically nuanced decision by a polity to act or not: smoke-filled rooms (a few Senators not continuing the expanded CTC, state legislatures not expanding Medicaid), but also public opinion and agenda setting.
+- Single motherhood, the most studied risk: across 29 rich democracies more than three times as much variation in penalties as in prevalences. Across US states, interstate variation in prevalences was stable 1993 to 2016 while variation in penalties more than doubled (Nicholson).
+- The US does not have a high prevalence of single motherhood. It has the highest penalty for single motherhood.
+- Social policy generosity moderates the single-motherhood penalty for child poverty and for poverty among families with children, and the penalties for low education and joblessness.
+:::
+
+---
+
+## (c) Power resources
+
+. . .
+
+The default distribution of power in a capitalist democracy favours elites and business.
+
+. . .
+
+Unions and Left parties organise the less advantaged. Poverty is lower where Left parties govern, unionisation is higher, and women are a larger share of parliaments.
+
+. . .
+
+So the field should study the choices of **political actors who have power over the poor**, not yet again the choices of the poor.
+
+::: {.notes}
+- Power resource theory: unions and leftist parties unite workers and voters around shared interests to push for generous social policies. The working class and poor need to bond together and attract some of the middle class to gain real power. Welfare state as the mechanism, collective political actors as the underlying cause.
+- Pineda-Hernández et al., 24 developed countries 1990 to 2015: centralised collective bargaining, greater bargaining coverage and higher unionisation significantly reduce working-age poverty after taxes and transfers.
+- VanHeuvelen and Brady (PSID 1976 to 2015): household union membership and state unionisation both reduce poverty, interact to reinforce each other, and higher state unionisation spills over to non-union households. "American poverty research largely neglects labor unions." Brady conjectures low unionisation is a more salient cause of poverty than eviction.
+- Poverty governance: health care workers, police, welfare case workers and local community leaders regulate the poor. The field needs the "routine and banal ways in which powerful actors exclude those in poverty".
+- Skepticism about dramatizing: sympathy is unlikely to displace the ideologies and interests of political actors. No evidence the US has low compassion, vast evidence of a uniquely strong individualistic ideology. Never proven that poverty scholarship influences policy-makers or public opinion.
+:::
+
+---
+
+## (d) Institutions
+
+. . .
+
+Institutions are "the residue of the power of collective actors in the past". They stay consequential without active maintenance.
+
+. . .
+
+Linked to poverty: slavery, federalism, electoral systems, colonialism, criminal justice, labour market institutions, minimum wages, citizenship laws.
+
+::: {.notes}
+- Inequalities are slow-moving and do not respond promptly to electoral changes. Path dependency: a long time horizon of causes and effects is needed.
+- Strong institutionalism: established institutions dominate over contemporary politics and lock in poverty. Weak institutionalism: they guide how and when politics can shape poverty.
+- Labour market institutions: poverty is lower where wage bargaining is coordinated, centralised and corporatist, employment contracts are protected, and minimum wages are regulated at a higher level. Growing interest in eviction and housing laws.
+- Citizenship: Baker and colleagues find nativity and citizenship explain the largest share of Latino-white and Asian-white poverty gaps. Citizenship laws and their enforcement block access to social policy, constrain employment rights, and limit residential opportunities. Immigrants may be "the most understudied population in poverty in the United States". Children of immigrants, not single mothers, are most vulnerable to extreme poverty.
+:::
+
+---
+
+## (d) Institutions: citizenship
+
+![Poverty rates by immigrant and citizenship status of the household, United States (2016–2020) versus the cross-national median of 24 rich democracies. Dotted line: CN median for the overall population. Brady (2023), Fig. 9.](figures/fig9.jpeg){.card fig-align="center" height="490"}
+
+::: {.notes}
+- Immigrant-led households in the US: 22.1%, high compared to the overall population, to non-immigrant households, and to immigrant households in other rich democracies.
+- Citizen immigrant households have poverty similar to the overall population. What stands out is the 28.4% of noncitizen immigrant households.
+- Not behaviour: citizenship laws and their enforcement produce this.
+:::
+
+---
+
+## (d) Institutions put racism at the centre
+
+. . .
+
+State-supported segregation, under-enforced discrimination law, historical racial regimes in the South.
+
+. . .
+
+The three prevailing approaches barely mention racism. Political explanations make it pivotal to racial inequalities in poverty.
+
+::: {.notes}
+- Massey and Denton: federal, state and local governments made countless political choices to institutionalise residential and school segregation, facilitated or subsidised it, and under-enforced discrimination law. This concentrated poverty and undermined mobility.
+- Baker: historical racial regimes (HRR) capture state-level institutions of slavery, sharecropping, opposition to integration, disenfranchisement devices. White poverty is uncorrelated with HRR. Black poverty and the Black-white gap are strongly positively associated with it, and HRR explains much of the Black-white poverty gap.
+- Small et al. have one mention of "racism" and zero of discrimination. Harding has one index entry, where he dismisses structural explanations. New culturalists put "blaming the victim" in pejorative quotes.
+- Racism also drives variation in social policy, in penalties, and in the power of collective actors. Together this is a more persuasive account of racial inequalities in poverty than behaviour or culture.
 :::
 
 # Conclusion
@@ -727,15 +867,4 @@ Their research agenda for ending it:
 ::: {.notes}
 - Black child poverty near 50% and Latino child poverty above 45% in the mid-1980s, an increase from the 1970s. Only recently down to near 30%.
 - "Most Black and Latino adults today grew up experiencing truly extraordinarily high poverty during childhood compared to any rich democracy in over four decades of the LIS."
-:::
-
----
-
-## Immigrant and citizenship status
-
-![Poverty rates by immigrant and citizenship status of the household, United States (2016–2020) versus the cross-national median of 24 rich democracies. Dotted line: CN median for the overall population. Brady (2023), Fig. 9.](figures/fig9.jpeg){.card fig-align="center" height="490"}
-
-::: {.notes}
-- Immigrant-led households in the US: 22.1%. Citizen immigrant households similar to the overall population. Noncitizen immigrant households: 28.4%.
-- Citizenship laws and their enforcement block access to social policy, constrain employment rights, and limit residential choices. Immigrants may be "the most understudied population in poverty in the United States".
 :::
