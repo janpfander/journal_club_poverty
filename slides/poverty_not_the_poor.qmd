@@ -2,7 +2,7 @@
 title: |
   Poverty, not the poor
 subtitle: |
-  Journal club · Brady (2023), *Science Advances*
+  Journal club · @bradyPovertyNotPoor2023
 # Journal club, 2026-10-14, ~10 min + discussion. Presenter: Jan Pfänder.
 # Audience: psychology / behavioural science.
 # Every number on the slides and in the notes is taken from the paper text.
@@ -22,8 +22,6 @@ format:
     include-after-body: section-label.html
 toc: false
 bibliography: ../references.bib
-nocite: |
-  @bradyPovertyNotPoor2023
 ---
 
 ## Why this paper
@@ -133,7 +131,7 @@ Brady asks why the United States has so much **poverty**. [@bradyPovertyNotPoor2
 
 ## A huge share of the population
 
-![Millions of people in the United States experiencing major social problems (2019 or 2020). Far more people are in poverty than experience more visible problems. Brady (2023), Fig. 1.](figures/fig1.jpeg){.card fig-align="center" width="80%"}
+![Millions of people in the United States experiencing major social problems (2019 or 2020). Far more people are in poverty than experience more visible problems. @bradyPovertyNotPoor2023, Fig. 1.](figures/fig1.jpeg){.card fig-align="center" width="80%"}
 
 ::: {.notes}
 - 2019: 17.5% of the US population, about 57.4 million people, were poor.
@@ -146,7 +144,7 @@ Brady asks why the United States has so much **poverty**. [@bradyPovertyNotPoor2
 
 ## A perennial outlier
 
-![Poverty rate in the United States (solid line) and the median of 19 other rich democracies (dashed line, with ± one cross-national SD), 1980–2020. Brady (2023), Fig. 2.](figures/fig2.jpeg){.card fig-align="center" width="85%"}
+![Poverty rate in the United States (solid line) and the median of 19 other rich democracies (dashed line, with ± one cross-national SD), 1980–2020. @bradyPovertyNotPoor2023, Fig. 2.](figures/fig2.jpeg){.card fig-align="center" width="85%"}
 
 ::: {.notes}
 - Solid line: US, every year near its average of 17%. Dashed: median of 18 other rich democracies, average 8.8% over the period.
@@ -159,7 +157,7 @@ Brady asks why the United States has so much **poverty**. [@bradyPovertyNotPoor2
 
 ## Staggeringly high for some groups
 
-![Child poverty rates for U.S. ethno-racial groups (2016–2020) and for 30 rich democracies, with 95% CIs. Dashed line: median child poverty rate across the 30 rich democracies. Brady (2023), Fig. 3.](figures/fig3.jpeg){.card fig-align="center" height="490"}
+![Child poverty rates for U.S. ethno-racial groups (2016–2020) and for 30 rich democracies, with 95% CIs. Dashed line: median child poverty rate across the 30 rich democracies. @bradyPovertyNotPoor2023, Fig. 3.](figures/fig3.jpeg){.card fig-align="center" height="490"}
 
 ::: {.notes}
 - Child poverty. Black children 33.5%, Latino children 29.8%, Native American children 29.4%.
@@ -173,7 +171,7 @@ Brady asks why the United States has so much **poverty**. [@bradyPovertyNotPoor2
 
 ## Unexpectedly high for those who "play by the rules"
 
-![Poverty rates for the overall population and for non-risk groups among working-aged households (HHs), United States (2016–2020) versus the cross-national (CN) median of 31 rich democracies. Dotted line: CN median for the overall population. Brady (2023), Fig. 5.](figures/fig5.jpeg){.card fig-align="center" height="490"}
+![Poverty rates for the overall population and for non-risk groups among working-aged households (HHs), United States (2016–2020) versus the cross-national (CN) median of 31 rich democracies. Dotted line: CN median for the overall population. @bradyPovertyNotPoor2023, Fig. 5.](figures/fig5.jpeg){.card fig-align="center" height="490"}
 
 ::: {.notes}
 - Non-risk groups among working-aged households, US versus the cross-national (CN) median of 31 rich democracies.
@@ -188,7 +186,7 @@ Brady asks why the United States has so much **poverty**. [@bradyPovertyNotPoor2
 
 ## Pervasive across groups and places
 
-![Poverty rates for age groups, adult women and men, regions and places in the United States (2016–2020). Dotted line: cross-national median poverty rate for the overall population. Brady (2023), Fig. 6.](figures/fig6.jpeg){.card fig-align="center" height="490"}
+![Poverty rates for age groups, adult women and men, regions and places in the United States (2016–2020). Dotted line: cross-national median poverty rate for the overall population. @bradyPovertyNotPoor2023, Fig. 6.](figures/fig6.jpeg){.card fig-align="center" height="490"}
 
 ::: {.notes}
 - Highest among under 18s and over 64s, in the South, central cities and rural areas.
@@ -292,7 +290,7 @@ Brady's critique:
 
 ## Who is actually poor?
 
-![Share of the U.S. population in poverty (2016–2020) that belongs to stereotypical versus typical groups. Brady (2023), Fig. 7.](figures/fig7.jpeg){.card fig-align="center" height="490"}
+![Share of the U.S. population in poverty (2016–2020) that belongs to stereotypical versus typical groups. @bradyPovertyNotPoor2023, Fig. 7.](figures/fig7.jpeg){.card fig-align="center" height="490"}
 
 ::: {.notes}
 - Second approach: ethnography and intensive interviews that humanise the poor through vivid, often shocking narratives. Evicted, $2.00 a Day, On the Run, Gang Leader for a Day.
@@ -429,7 +427,7 @@ The relationship holds however generosity is measured, and across countries, yea
 
 ## (a) Social policy generosity
 
-![Predicted poverty rates from a two-way fixed-effects model of social welfare spending (% of GDP) in 20 rich democracies, 1980–2019, with 95% CIs, overlaid with the actual U.S. minimum (1980), median (2006) and maximum (1984) poverty rates. Brady (2023), Fig. 8.](figures/fig8.jpeg){.card fig-align="center" width="85%"}
+![Predicted poverty rates from a two-way fixed-effects model of social welfare spending (% of GDP) in 20 rich democracies, 1980–2019, with 95% CIs, overlaid with the actual U.S. minimum (1980), median (2006) and maximum (1984) poverty rates. @bradyPovertyNotPoor2023, Fig. 8.](figures/fig8.jpeg){.card fig-align="center" width="85%"}
 
 ::: {.notes}
 - Fig. 8: two-way fixed-effects model (country, year), 20 rich democracies with OECD and LIS data, 1980 to 2019, poverty on social welfare spending as a percent of GDP and its square.
@@ -507,7 +505,7 @@ Linked to poverty: slavery, federalism, electoral systems, colonialism, criminal
 
 ## (d) Institutions: citizenship
 
-![Poverty rates by immigrant and citizenship status of the household, United States (2016–2020) versus the cross-national median of 24 rich democracies. Dotted line: CN median for the overall population. Brady (2023), Fig. 9.](figures/fig9.jpeg){.card fig-align="center" height="490"}
+![Poverty rates by immigrant and citizenship status of the household, United States (2016–2020) versus the cross-national median of 24 rich democracies. Dotted line: CN median for the overall population. @bradyPovertyNotPoor2023, Fig. 9.](figures/fig9.jpeg){.card fig-align="center" height="490"}
 
 ::: {.notes}
 - Immigrant-led households in the US: 22.1%, high compared to the overall population, to non-immigrant households, and to immigrant households in other rich democracies.
@@ -862,7 +860,7 @@ Their research agenda for ending it:
 
 ## Child poverty over time
 
-![Child poverty rates for Black (solid), Latino (dashed) and white (dotted) children in the United States, 1970–2019, with 95% CIs. Brady (2023), Fig. 4.](figures/fig4.jpeg){.card fig-align="center" width="85%"}
+![Child poverty rates for Black (solid), Latino (dashed) and white (dotted) children in the United States, 1970–2019, with 95% CIs. @bradyPovertyNotPoor2023, Fig. 4.](figures/fig4.jpeg){.card fig-align="center" width="85%"}
 
 ::: {.notes}
 - Black child poverty near 50% and Latino child poverty above 45% in the mid-1980s, an increase from the 1970s. Only recently down to near 30%.

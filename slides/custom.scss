@@ -10,6 +10,12 @@ $link-color: #2A76DD;
 .reveal .citation {
   font-size: 0.7em;
 }
+// ...except where the citation is part of the text itself: title slide
+// subtitle and figure captions keep their own size.
+.reveal #title-slide .citation,
+.reveal figcaption .citation {
+  font-size: inherit;
+}
 
 // Progress bar: thicker and accent-coloured, pinned at the bottom.
 .reveal .progress {
