@@ -36,7 +36,7 @@ Poverty illustrates it unusually well: a huge, stable, structural problem with a
 
 . . .
 
-A concrete case for thinking the tension through, rather than in the abstract
+A concrete case for thinking the tension through
 
 ::: {.notes}
 - Chater and Loewenstein (2023, Behavioral and Brain Sciences): behavioural public policy has framed problems at the level of the individual (i-frame), which has led it astray from the system-level causes and solutions (s-frame). The same tension shows up in climate communication, misinformation, trust in science.
@@ -85,10 +85,6 @@ Brady asks why the United States has so much **poverty**. [@bradyPovertyNotPoor2
 4. Perspectives for psychology
 :::
 
-::: {.fragment fragment-index=5}
-5. Discussion
-:::
-
 # 1. Systemically high poverty
 
 ## How poverty is measured here
@@ -113,7 +109,7 @@ Brady asks why the United States has so much **poverty**. [@bradyPovertyNotPoor2
 
 ---
 
-## Five patterns
+## Five patterns of poverty in the U.S.
 
 ::: {.incremental}
 - a huge share of the population
@@ -147,7 +143,7 @@ Brady asks why the United States has so much **poverty**. [@bradyPovertyNotPoor2
 ![Poverty rate in the United States (solid line) and the median of 19 other rich democracies (dashed line, with ± one cross-national SD), 1980–2020. @bradyPovertyNotPoor2023, Fig. 2.](figures/fig2.jpeg){.card fig-align="center" width="85%"}
 
 ::: {.notes}
-- Solid line: US, every year near its average of 17%. Dashed: median of 18 other rich democracies, average 8.8% over the period.
+- Solid line: US, every year near its average of 17%. Dashed: median of 19 other rich democracies, average 8.8% over the period.
 - "By far, the clearest 'trend' in American poverty is stability at a high level."
 - Stability is not an artefact of the relative measure: Israel, Luxembourg, Sweden, UK show substantial change.
 - Israel has had higher poverty than the US since 2005. Otherwise the typical rich democracy stays far below.
@@ -198,9 +194,9 @@ Brady asks why the United States has so much **poverty**. [@bradyPovertyNotPoor2
 ## Three approaches to the individual poor
 
 ::: {.spaced .incremental}
-- (i) fixing the poor
-- (ii) dramatizing the poor
-- (iii) cultural explanations
+(i) fixing the poor
+(ii) dramatizing the poor
+(iii) cultural explanations
 :::
 
 ::: {.notes}
@@ -209,13 +205,13 @@ Brady asks why the United States has so much **poverty**. [@bradyPovertyNotPoor2
 
 ## (i) Fixing the poor
 
+. . .
+
 “who is poor” explains “why there is poverty”
 
----
+. . .
 
-## (i) Fixing the poor
-
-The poor are poor because they adopt the wrong behaviors: 
+The poor are poor because they adopt the wrong behaviours:
 
 ::: {.incremental}
 - joblessness
@@ -355,7 +351,13 @@ Brady's critique:
 ## {.big-center}
 
 ::: {.statement}
-Poverty is a problem of **distribution**, not scarcity.
+Poverty is a problem of resource **distribution**.
+:::
+
+. . .
+
+::: {.statement}
+**Institutions** make **policy**. Policy makes **poverty**.
 :::
 
 ::: {.notes}
@@ -367,35 +369,13 @@ Poverty is a problem of **distribution**, not scarcity.
 
 ---
 
-## The political account in one line
-
-. . .
-
-**Power** and **institutions** make **policy**. Policy makes **poverty**.
-
-. . .
-
-Risks do not cause poverty by themselves. Policy and institutions decide how much a risk costs.
-
-. . .
-
-Individuals are poor largely *because* poverty is systemically high, not the other way round.
-
-::: {.notes}
-- "Indirectly, power and institutions cause policy, which causes poverty. Power and institutions also reinforce each other."
-- "Rather than presuming that risks cause poverty like behavioralists, political explanations emphasize that policy and institutions moderate the relationship between risks and poverty."
-- "Political explanations see individuals as poor largely because of that systemically high poverty."
-:::
-
----
-
 ## Four themes
 
 ::: {.spaced .incremental}
-- (a) **Social policy generosity** is a requirement for low poverty
-- (b) **Penalties** on risks are political choices
-- (c) **Power resources**: who is organised enough to win generous policy
-- (d) **Institutions**: laws and rules that lock in the past
+(a) **Social policy generosity** is a requirement for low poverty
+(b) **Penalties** on risks are political choices
+(c) **Power resources**: who is organised enough to win generous policy
+(d) **Institutions**: laws and rules that lock in the past
 :::
 
 ::: {.notes}
@@ -409,10 +389,6 @@ Individuals are poor largely *because* poverty is systemically high, not the oth
 . . .
 
 > There has never been a country in the modern history of capitalist democracies that accomplished sustainably low poverty without a large welfare state.
-
-. . .
-
-The relationship holds however generosity is measured, and across countries, years, and US states.
 
 ::: {.notes}
 - "The strongest and most robust generalization to emerge from recent decades of political research on poverty."
@@ -441,15 +417,12 @@ The relationship holds however generosity is measured, and across countries, yea
 
 . . .
 
-Behaviouralists assume a mechanical link from risk to poverty, so they try to reduce the *prevalence* of risks.
+Behaviouralists assume a mechanical link from behavioural risk to poverty, so they try to reduce the *prevalence* of risks.
 
 . . .
 
 Political explanations: states decide which risks are protected. The *penalty* varies across countries and is politically manipulable.
 
-. . .
-
-Not acting is a choice just like acting is a choice.
 
 ::: {.notes}
 - "Political choices" means a realistically nuanced decision by a polity to act or not: smoke-filled rooms (a few Senators not continuing the expanded CTC, state legislatures not expanding Medicaid), but also public opinion and agenda setting.
@@ -494,39 +467,16 @@ Institutions are "the residue of the power of collective actors in the past". Th
 
 Linked to poverty: slavery, federalism, electoral systems, colonialism, criminal justice, labour market institutions, minimum wages, citizenship laws.
 
+. . .
+
+Two examples. **Citizenship** laws block access to social policy and employment. State-supported segregation and historical racial regimes put **racism** at the centre, which the three prevailing approaches barely mention.
+
 ::: {.notes}
 - Inequalities are slow-moving and do not respond promptly to electoral changes. Path dependency: a long time horizon of causes and effects is needed.
 - Strong institutionalism: established institutions dominate over contemporary politics and lock in poverty. Weak institutionalism: they guide how and when politics can shape poverty.
 - Labour market institutions: poverty is lower where wage bargaining is coordinated, centralised and corporatist, employment contracts are protected, and minimum wages are regulated at a higher level. Growing interest in eviction and housing laws.
-- Citizenship: Baker and colleagues find nativity and citizenship explain the largest share of Latino-white and Asian-white poverty gaps. Citizenship laws and their enforcement block access to social policy, constrain employment rights, and limit residential opportunities. Immigrants may be "the most understudied population in poverty in the United States". Children of immigrants, not single mothers, are most vulnerable to extreme poverty.
-:::
-
----
-
-## (d) Institutions: citizenship
-
-![Poverty rates by immigrant and citizenship status of the household, United States (2016–2020) versus the cross-national median of 24 rich democracies. Dotted line: CN median for the overall population. @bradyPovertyNotPoor2023, Fig. 9.](figures/fig9.jpeg){.card fig-align="center" height="490"}
-
-::: {.notes}
-- Immigrant-led households in the US: 22.1%, high compared to the overall population, to non-immigrant households, and to immigrant households in other rich democracies.
-- Citizen immigrant households have poverty similar to the overall population. What stands out is the 28.4% of noncitizen immigrant households.
-- Not behaviour: citizenship laws and their enforcement produce this.
-:::
-
----
-
-## (d) Institutions put racism at the centre
-
-. . .
-
-State-supported segregation, under-enforced discrimination law, historical racial regimes in the South.
-
-. . .
-
-The three prevailing approaches barely mention racism. Political explanations make it pivotal to racial inequalities in poverty.
-
-::: {.notes}
-- Massey and Denton: federal, state and local governments made countless political choices to institutionalise residential and school segregation, facilitated or subsidised it, and under-enforced discrimination law. This concentrated poverty and undermined mobility.
+- Citizenship: Baker and colleagues find nativity and citizenship explain the largest share of Latino-white and Asian-white poverty gaps. Citizenship laws and their enforcement block access to social policy, constrain employment rights, and limit residential opportunities. Immigrants may be "the most understudied population in poverty in the United States". Children of immigrants, not single mothers, are most vulnerable to extreme poverty. Fig. 9 in the backup: noncitizen immigrant households 28.4%, citizen immigrant households similar to the overall population.
+- Racism. Massey and Denton: federal, state and local governments made countless political choices to institutionalise residential and school segregation, facilitated or subsidised it, and under-enforced discrimination law. This concentrated poverty and undermined mobility.
 - Baker: historical racial regimes (HRR) capture state-level institutions of slavery, sharecropping, opposition to integration, disenfranchisement devices. White poverty is uncorrelated with HRR. Black poverty and the Black-white gap are strongly positively associated with it, and HRR explains much of the Black-white poverty gap.
 - Small et al. have one mention of "racism" and zero of discrimination. Harding has one index entry, where he dismisses structural explanations. New culturalists put "blaming the victim" in pejorative quotes.
 - Racism also drives variation in social policy, in penalties, and in the power of collective actors. Together this is a more persuasive account of racial inequalities in poverty than behaviour or culture.
@@ -594,15 +544,15 @@ Governments and funders responded with interventions to improve the decisions of
 
 . . .
 
-It still explains the behaviour of poor people, not why there is poverty
+It still focuses on the behaviour of poor people, not why there is poverty
 
 . . .
 
-Helping some individuals decide better may move them up. It does not lower the poverty rate
+Helping some individuals decide better may move them up. It does not tackle the structural and political causes.
 
 . . .
 
-Offering individual fixes can reduce public support for structural ones
+Offering individual fixes can even reduce public support for structural ones
 
 ::: {.notes}
 - Their words: psychological research "has largely fixated on what explains the behaviors of people living in poverty, rather than on what explains poverty itself (see Brady 2023)."
@@ -617,6 +567,10 @@ Offering individual fixes can reduce public support for structural ones
 
 . . .
 
+Start at the widest level and work inward. At each level: what does this do to people, and what should psychology study?
+
+. . .
+
 **Macro- and exosystem.** The welfare regime and the ideology behind it
 
 . . .
@@ -627,9 +581,6 @@ Offering individual fixes can reduce public support for structural ones
 
 **Microsystem.** The proximal material and social conditions of poverty
 
-. . .
-
-Start at the widest level and work inward. At each level: what does this do to people, and what should psychology study?
 
 ::: {.notes}
 - Bronfenbrenner's ecological systems theory. Microsystem: the immediate environment where one carries out roles (the welfare office, the supermarket). Mesosystem: the set of microsystems a person inhabits and how they interact (work and childcare). Exosystem: formal and informal institutions that distribute resources, rights and opportunities (parliaments, markets, media). Macrosystem: the cultural and ideological "blueprint" (free-market capitalism, labour law, the policy regime).
@@ -686,26 +637,26 @@ Welfare regimes are "moral environments": they shape how poverty feels and how p
 
 ---
 
-## Mesosystem: the design of social policies
+## Mesosystem: three choices in policy design
 
 . . .
 
-**Who qualifies.** Means-testing draws a line between recipients and everyone else, and the people inside the line get stereotyped
+**Universal or targeted?** Targeting labels people as recipients, and the label carries a stereotype: less hardworking, less competent. Having to apply and prove eligibility keeps eligible people out
 
 . . .
 
-**Whether you have to apply.** Applying means paperwork, waiting, proving need. People who qualify fall through
+**Unconditional or conditional?** Making benefits depend on job search lowers wellbeing and shifts responsibility for basic needs from the state to the individual
 
 . . .
 
-**Whether there are conditions.** Having to prove you are looking for work lowers wellbeing and puts the blame on you
+**Protected or precarious work?** Working poverty is growing. Precarious contracts push the risk onto the worker, strong unions raise wages and job quality for union and non-union workers alike
 
 ::: {.notes}
-- The paper's three psychological processes: demarcation, default enrolment, dignity.
-- Demarcation: experiments show that being labelled a recipient of a targeted unemployment benefit makes people seem less conscientious, less humane, less hardworking. Falling just outside a threshold deepens poverty for people with several marginalised statuses.
-- Defaults: automatic enrolment puts the burden on the state. Applying creates "hurry up and wait". Young people in UK poverty asked for simpler processes and fewer documents.
-- Dignity: having to perform worthiness is "structural violence". Conditions shift responsibility for basic needs from the state to the individual ("responsibilization").
-- Predistribution: the labour market decides who becomes poor before any benefit. Working poverty is growing, precarious contracts push risk onto workers, strong unions raise wages and job quality for union and non-union workers alike.
+- The paper names three psychological processes behind the first two choices: demarcation, default enrolment, dignity.
+- Universal or targeted. Demarcation: experiments show that being labelled a recipient of a targeted unemployment benefit makes people seem less conscientious, less humane, less hardworking (Schofield et al. 2019). Benefit recipients in liberal welfare states are stereotyped as lower in warmth and competence (Schofield et al. 2021). Falling just outside a threshold deepens poverty for people with several marginalised statuses. Defaults: automatic enrolment puts the burden on the state, applying creates layers of administrative burden and a cycle of "hurry up and wait". Young people in UK poverty asked for simpler processes and fewer documents. Dignity: having to perform worthiness is "structural violence" (Galtung), gatekeeping by eligibility checks.
+- Unconditional or conditional. UK: proof of active job search for unemployment benefits. Exposure to conditionality predicts lower wellbeing and motivation (Dwyer et al. 2023). "Responsibilization": shifting responsibility for basic human needs from the state to the individual, a subtle form of behavioural conditioning.
+- Predistribution. OECD 2023: 8% of individuals in households with at least one worker are poor, nearly a quarter of the working poor live in households with two or more workers. 60% of jobs created 2007 to 2013 in 26 European countries were non-standard. Job insecurity: lower wellbeing, more stress, worse health, worse outcomes for children. Over one million UK residents on zero-hours contracts. Strong unions improve wages and job quality for union and non-union workers, and raise workers' sense of control and commitment. Caveat: union benefits can go to "core" workers and exclude "peripheral" ones.
+- Their summary: the bulk of the evidence says universal provision supports wellbeing better than means-testing, and is not necessarily more expensive once eligibility checking is gone.
 :::
 
 ---
@@ -714,7 +665,7 @@ Welfare regimes are "moral environments": they shape how poverty feels and how p
 
 . . .
 
-- Evaluate policy features for their psychological effects: universal versus means-tested, unconditional versus conditional, through demarcation, default enrolment and dignity
+- Evaluate policy features for their psychological effects: universal versus means-tested, unconditional versus conditional
 
 . . .
 
@@ -784,15 +735,14 @@ Some famous lab effects may be artefacts: in the scarcity games, "rich" particip
 
 . . .
 
-**The object of study.** From the behaviour of people in poverty to the psychological consequences of institutions and policies
+**The object of study.** 
+
+- From the behaviour of people in poverty to the psychological consequences of specific institutional and policy design choices
 
 . . .
 
-**The direction.** From inside-out to outside-in
 
-. . .
-
-**The role.** From improving the decisions of the poor to evaluating policy designs and studying the politics that could change them
+- From improving the decisions of the poor to evaluating policy designs and studying the politics that could change them
 
 ::: {.notes}
 - Is this a passive programme, studying how poverty affects people rather than how to end it? Partly. Most of the paper is descriptive: what each institutional feature does to people. The intervention role it keeps for psychology is twofold. First, evaluation: psychology tells policymakers which institutional designs are less harmful, with a clear preference for universal, unconditional, automatic provision and for changing environments rather than people. Second, the politics of change: who supports which policies and why, and what stops political actors from acting. Those are the research agenda on the next slide.
@@ -805,11 +755,7 @@ Some famous lab effects may be artefacts: in the scarcity games, "rich" particip
 
 . . .
 
-Interventions on individuals can make poverty easier to bear or to escape. They do not end it
-
-. . .
-
-Their research agenda for ending it:
+Their research agenda:
 
 ::: {.incremental}
 - quasi-experimental and longitudinal comparisons of how different welfare logics shape psychological processes over time
@@ -827,30 +773,6 @@ Their research agenda for ending it:
 - Where this meets Brady: his causes are power, policy and institutions, and he notes the US public's "uniquely strong individualistic ideology" without studying it. The public psychology that keeps penalties high is the open question for this room.
 :::
 
-# 5. Discussion
-
-## Discussion points
-
-::: {.incremental}
-- Is "outside-in" a new question or the old question with more context variables? Where does the individual remain the unit of analysis in Sheehy-Skeffington et al.?
-
-- Deficit versus adaptation: does reinterpreting scarcity effects as adaptive move the lever to the environment, or just make the behavioural story more sympathetic?
-
-- Shah et al. 2012 is hit twice, conceptually by Brady and empirically by the reanalysis. What survives of the scarcity-mindset programme?
-
-- Both papers claim narratives have political effects (dramatizing backfires, nudges crowd out structural support). Neither tests it for poverty. Could we?
-
-- Climate is the analogy both papers reach for. Is the individual-behaviour framing of climate action the trap Brady describes, and are we in it?
-:::
-
-::: {.notes}
-- Point 1: a third of the new paper is still the microsystem and "psychological shifts". Brady would call that studying the poor.
-- Point 2: the authors' own caution applies: structural constraints on a decision are not psychological shifts.
-- Point 3: Brady's objection is construct validity (video games as scarcity) and that feedback loops cannot explain why the US has high poverty in the first place. The reanalysis adds that the task itself produced the effect.
-- Point 4: Brady says it "has never really been proven" that poverty scholarship moves policy-makers or public opinion. Hagmann et al. is the climate template. A poverty version is a feasible survey experiment.
-- Point 5: link to the megastudy. Interventions that move an attitude without moving downstream outcomes, and the question of which goal an individual-level intervention serves.
-:::
-
 ## References
 
 ::: {#refs}
@@ -865,4 +787,16 @@ Their research agenda for ending it:
 ::: {.notes}
 - Black child poverty near 50% and Latino child poverty above 45% in the mid-1980s, an increase from the 1970s. Only recently down to near 30%.
 - "Most Black and Latino adults today grew up experiencing truly extraordinarily high poverty during childhood compared to any rich democracy in over four decades of the LIS."
+:::
+
+---
+
+## Institutions: citizenship
+
+![Poverty rates by immigrant and citizenship status of the household, United States (2016–2020) versus the cross-national median of 24 rich democracies. Dotted line: CN median for the overall population. @bradyPovertyNotPoor2023, Fig. 9.](figures/fig9.jpeg){.card fig-align="center" height="490"}
+
+::: {.notes}
+- Immigrant-led households in the US: 22.1%, high compared to the overall population, to non-immigrant households, and to immigrant households in other rich democracies.
+- Citizen immigrant households have poverty similar to the overall population. What stands out is the 28.4% of noncitizen immigrant households.
+- Not behaviour: citizenship laws and their enforcement produce this.
 :::
