@@ -1,296 +1,289 @@
 [
   {
-    "objectID": "slides/poverty_not_the_poor.html#why-this-paper",
-    "href": "slides/poverty_not_the_poor.html#why-this-paper",
+    "objectID": "index.html#why-this-paper",
+    "href": "index.html#why-this-paper",
     "title": "Poverty, not the poor",
     "section": "Why this paper",
     "text": "Why this paper\n\nA tension that keeps growing when psychology studies social phenomena: the i-frame and the s-frame (Chater and Loewenstein 2023)\n\n\nPoverty illustrates it unusually well: a huge, stable, structural problem with a large behavioural-science literature on the individuals in it\n\n\nA concrete case for thinking the tension through\n\n\nChater and Loewenstein (2023, Behavioral and Brain Sciences): behavioural public policy has framed problems at the level of the individual (i-frame), which has led it astray from the system-level causes and solutions (s-frame). The same tension shows up in climate communication, misinformation, trust in science.\nBrady is a sociologist who makes the s-frame case for poverty without using the term. Sheehy-Skeffington and colleagues (section 4) are psychologists who take the i-frame versus s-frame framing explicitly and try to answer it for poverty.\nWhy poverty is a good case: the evidence on both sides is unusually mature. Four decades of cross-national data on the poverty rate, and fifteen years of experiments on decision-making under scarcity."
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#section",
-    "href": "slides/poverty_not_the_poor.html#section",
+    "objectID": "index.html#section",
+    "href": "index.html#section",
     "title": "Poverty, not the poor",
     "section": "",
     "text": "The field asks why the poor are poor.\n\n\n\nBrady asks why the United States has so much poverty. (Brady 2023)\n\n\n\nReview article by David Brady (UC Riverside, WZB Berlin), Science Advances 2023.\nOpens with Katz: “The idea that poverty is a problem of persons … has dominated discussions of poverty for well over two hundred years and given us the enduring idea of the undeserving poor.”\nThe field routinely asks why the poor fail to get married, do not complete their education, do not work.\nBrady: this focus “has been incapable of providing an accurate understanding of that systemically high poverty.” Needs a paradigm shift: poverty, not the poor."
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#overview",
-    "href": "slides/poverty_not_the_poor.html#overview",
+    "objectID": "index.html#overview",
+    "href": "index.html#overview",
     "title": "Poverty, not the poor",
     "section": "Overview",
     "text": "Overview\n\n\nThe United States has systemically high poverty\n\n\n\n\nThree prevailing approaches, and why they fail\n\n\n\n\nPolitical explanations\n\n\n\n\nPerspectives for psychology"
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#how-poverty-is-measured-here",
-    "href": "slides/poverty_not_the_poor.html#how-poverty-is-measured-here",
+    "objectID": "index.html#how-poverty-is-measured-here",
+    "href": "index.html#how-poverty-is-measured-here",
     "title": "Poverty, not the poor",
     "section": "How poverty is measured here",
     "text": "How poverty is measured here\n\n\nRelative measure: poor if household income is below 50% of the median\n\n\n\n\nIncome after taxes, tax credits and transfers (“post-fisc”), equivalised by household size\n\n\n\n\nData: Luxembourg Income Study (LIS), rich democracies, 1980 to 2020\n\n\n\nThe official US poverty measure (OPM) is explicitly avoided: thresholds too low, based on a 1950s rule of thumb that food is a third of expenses, ignores taxes and tax credits, counts some transfers but not SNAP, housing subsidies, EITC, CTC. Two National Academy panels (1995, 2019) critiqued it.\nRelative measures “better predict well-being, health, and life chances” and are more reliable over time and across places.\nEquivalised: income divided by the square root of household members."
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#five-patterns-of-poverty-in-the-u.s.",
-    "href": "slides/poverty_not_the_poor.html#five-patterns-of-poverty-in-the-u.s.",
+    "objectID": "index.html#five-patterns-of-poverty-in-the-u.s.",
+    "href": "index.html#five-patterns-of-poverty-in-the-u.s.",
     "title": "Poverty, not the poor",
     "section": "Five patterns of poverty in the U.S.",
     "text": "Five patterns of poverty in the U.S.\n\na huge share of the population\na perennial outlier among rich democracies\nstaggeringly high for certain groups\nunexpectedly high for those who “play by the rules”\npervasive across groups and places\n\n\n\nThese five patterns are Brady’s definition of “systemically high”. One figure for each."
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#a-huge-share-of-the-population",
-    "href": "slides/poverty_not_the_poor.html#a-huge-share-of-the-population",
+    "objectID": "index.html#a-huge-share-of-the-population",
+    "href": "index.html#a-huge-share-of-the-population",
     "title": "Poverty, not the poor",
     "section": "A huge share of the population",
     "text": "A huge share of the population\n\nMillions of people in the United States experiencing major social problems (2019 or 2020). Far more people are in poverty than experience more visible problems. Brady (2023), Fig. 1.\n\n2019: 17.5% of the US population, about 57.4 million people, were poor.\nAlmost 64 times as many people in poverty as evicted. More than 32 times as many as incarcerated. 17 times the victims of violent crime. Almost 10 times the unemployed.\nPew has never listed poverty among the biggest problems facing the nation.\nPoverty is also an event: about 45 to 46% of people in poverty are in their first year of being poor. About 61% of Americans experience at least one year of poverty in their lives."
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#a-perennial-outlier",
-    "href": "slides/poverty_not_the_poor.html#a-perennial-outlier",
+    "objectID": "index.html#a-perennial-outlier",
+    "href": "index.html#a-perennial-outlier",
     "title": "Poverty, not the poor",
     "section": "A perennial outlier",
     "text": "A perennial outlier\n\nPoverty rate in the United States (solid line) and the median of 19 other rich democracies (dashed line, with ± one cross-national SD), 1980–2020. Brady (2023), Fig. 2.\n\nSolid line: US, every year near its average of 17%. Dashed: median of 19 other rich democracies, average 8.8% over the period.\n“By far, the clearest ‘trend’ in American poverty is stability at a high level.”\nStability is not an artefact of the relative measure: Israel, Luxembourg, Sweden, UK show substantial change.\nIsrael has had higher poverty than the US since 2005. Otherwise the typical rich democracy stays far below."
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#staggeringly-high-for-some-groups",
-    "href": "slides/poverty_not_the_poor.html#staggeringly-high-for-some-groups",
+    "objectID": "index.html#staggeringly-high-for-some-groups",
+    "href": "index.html#staggeringly-high-for-some-groups",
     "title": "Poverty, not the poor",
     "section": "Staggeringly high for some groups",
     "text": "Staggeringly high for some groups\n\n\n\nChild poverty rates for U.S. ethno-racial groups (2016–2020) and for 30 rich democracies, with 95% CIs. Dashed line: median child poverty rate across the 30 rich democracies. Brady (2023), Fig. 3.\n\n\n\n\nChild poverty. Black children 33.5%, Latino children 29.8%, Native American children 29.4%.\nNo rich democracy comes close: the next highest are Israel and Spain at about 22%, and none exceeded 26.1% in four decades of LIS data.\nWhite and Asian American children are close to the cross-national median of 10.8%. White child poverty is lower than in Canada and France.\nSo the US overall rate is partly “simply due to staggeringly high poverty for ethno-racial minorities”.\nBackup: Fig. 4, Black and Latino child poverty near 50% in the 1980s."
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#unexpectedly-high-for-those-who-play-by-the-rules",
-    "href": "slides/poverty_not_the_poor.html#unexpectedly-high-for-those-who-play-by-the-rules",
+    "objectID": "index.html#unexpectedly-high-for-those-who-play-by-the-rules",
+    "href": "index.html#unexpectedly-high-for-those-who-play-by-the-rules",
     "title": "Poverty, not the poor",
     "section": "Unexpectedly high for those who “play by the rules”",
     "text": "Unexpectedly high for those who “play by the rules”\n\n\n\nPoverty rates for the overall population and for non-risk groups among working-aged households (HHs), United States (2016–2020) versus the cross-national (CN) median of 31 rich democracies. Dotted line: CN median for the overall population. Brady (2023), Fig. 5.\n\n\n\n\nNon-risk groups among working-aged households, US versus the cross-national (CN) median of 31 rich democracies.\nEmployed households: 12.1% in the US, above the CN median for the overall population (10%).\nHouseholds led by a high school graduate: 12.8%. Non-young households (head 25+): 14.4%.\nEven people with zero risks: 7.4% are in poverty.\nAnd most Americans are not in the risk groups: 94.8% of working-aged households are employed, 91.2% led by someone with at least high school.\nMore than three times as many people in working-poor households (9.7% of the population) as in jobless poor households (3.2%)."
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#pervasive-across-groups-and-places",
-    "href": "slides/poverty_not_the_poor.html#pervasive-across-groups-and-places",
+    "objectID": "index.html#pervasive-across-groups-and-places",
+    "href": "index.html#pervasive-across-groups-and-places",
     "title": "Poverty, not the poor",
     "section": "Pervasive across groups and places",
     "text": "Pervasive across groups and places\n\n\n\nPoverty rates for age groups, adult women and men, regions and places in the United States (2016–2020). Dotted line: cross-national median poverty rate for the overall population. Brady (2023), Fig. 6.\n\n\n\n\nHighest among under 18s and over 64s, in the South, central cities and rural areas.\nBut above the cross-national median among working-aged adults, among both women and men, in all four regions, in large cities, moderate cities and suburbs."
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#three-approaches-to-the-individual-poor",
-    "href": "slides/poverty_not_the_poor.html#three-approaches-to-the-individual-poor",
+    "objectID": "index.html#three-approaches-to-the-individual-poor",
+    "href": "index.html#three-approaches-to-the-individual-poor",
     "title": "Poverty, not the poor",
     "section": "Three approaches to the individual poor",
     "text": "Three approaches to the individual poor\n\n\nfixing the poor\ndramatizing the poor\ncultural explanations\n\n\n\n\nBrady’s own labels. All three focus on the individual poor rather than on why poverty is systemically high. He links this to America’s uniquely strong individualistic ideology."
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#i-fixing-the-poor",
-    "href": "slides/poverty_not_the_poor.html#i-fixing-the-poor",
+    "objectID": "index.html#i-fixing-the-poor",
+    "href": "index.html#i-fixing-the-poor",
     "title": "Poverty, not the poor",
     "section": "(i) Fixing the poor",
     "text": "(i) Fixing the poor\n\n“who is poor” explains “why there is poverty”\n\n\nThe poor are poor because they adopt the wrong behaviours:\n\njoblessness\nlow education\nyoung headship\nsingle motherhood\n\n\n\nAnti-poverty strategy: reduce the share of the population with these risks\n\n\nBehaviour is the mechanism, driven by choices and incentives, culture, traits. Hence the focus on welfare disincentives, on getting people to marry, finish school, work.\nExample named in the paper: Shah, Mullainathan and Shafir (2012, Science) simulate scarcity in lab games (Wheel of Fortune, Family Feud, Angry Birds) and conclude “the poor often behave in ways that reinforce poverty.”\nPublic version: Sawhill’s “success sequence”. AEI-Brookings consensus plans of 2015 and 2022: first recommendation is a new cultural norm around marriage."
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#i-fixing-the-poor-prevalences-and-penalties",
-    "href": "slides/poverty_not_the_poor.html#i-fixing-the-poor-prevalences-and-penalties",
+    "objectID": "index.html#i-fixing-the-poor-prevalences-and-penalties",
+    "href": "index.html#i-fixing-the-poor-prevalences-and-penalties",
     "title": "Poverty, not the poor",
     "section": "(i) Fixing the poor: prevalences and penalties",
     "text": "(i) Fixing the poor: prevalences and penalties\n\nPrevalence: the share of the population with a risk\nPenalty: how much more likely a risk makes you to be poor\n\n\nThe United States does not stand out for having high prevalences but does stand out for having the highest penalties among rich democracies.\n\n\nFramework from Brady, Finnigan and Hübgen (2017). Three critiques of behavioural explanations:\n\nPrevalences cannot explain macro variation. Across 29 rich democracies the US ranks 20th on the prevalence of at least one risk, below average on joblessness and low education. If the US had median prevalences, poverty would go up, not down. Risks have declined markedly since the 1970s while poverty stayed flat.\n\n\nCausality is questionable. Risk coefficients are not causally identified, risks are endogenous to poverty. Penalties vary over time and across countries: in 16 of 29 rich democracies single motherhood does not even significantly predict working-aged poverty.\n\n\nBehaviouralists study prevalences and neglect penalties, yet there is far more variation in penalties, and reducing penalties would reduce poverty more.\n\n“Who is poor” does not explain “why there is poverty”.\nStudying only the US, an outlier on both poverty and penalties, biases impressions about how much risks matter. Smeeding: the US literature “rests on an inherently parochial foundation”."
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#ii-dramatizing-the-poor",
-    "href": "slides/poverty_not_the_poor.html#ii-dramatizing-the-poor",
+    "objectID": "index.html#ii-dramatizing-the-poor",
+    "href": "index.html#ii-dramatizing-the-poor",
     "title": "Poverty, not the poor",
     "section": "(ii) Dramatizing the poor",
     "text": "(ii) Dramatizing the poor\n\nEthnography and intensive interviews: vivid, often shocking accounts of the daily lives of poor individuals (Evicted, $2.00 a Day, On the Run)\n\n\n\nThe theory of change: humanising the poor evokes compassion, and compassion shifts the policy agenda\n\n\n\nBrady’s critique:\n\nDrama focuses on individuals: their life history, unfortunate circumstances, or counterproductive behavior that caused such dire straits\n“Many have tremendous compassion for the poor but maintain an individualistic theory of the causes of and solutions for poverty.”\nDrama overrepresents stereotypical groups, focuses on symptoms (eviction), and downplays effective policy"
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#who-is-actually-poor",
-    "href": "slides/poverty_not_the_poor.html#who-is-actually-poor",
+    "objectID": "index.html#who-is-actually-poor",
+    "href": "index.html#who-is-actually-poor",
     "title": "Poverty, not the poor",
     "section": "Who is actually poor?",
     "text": "Who is actually poor?\n\nIf one were to construct a composite “typical” poor person in the United States based on the most common populations in multiple categories, it would be a white, 35- to 45-year-old woman, with a high school education, in a coupled and employed household with no children, and living in a metropolitan area in the South."
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#who-is-actually-poor-1",
-    "href": "slides/poverty_not_the_poor.html#who-is-actually-poor-1",
+    "objectID": "index.html#who-is-actually-poor-1",
+    "href": "index.html#who-is-actually-poor-1",
     "title": "Poverty, not the poor",
     "section": "Who is actually poor?",
     "text": "Who is actually poor?\n\n\n\nShare of the U.S. population in poverty (2016–2020) that belongs to stereotypical versus typical groups. Brady (2023), Fig. 7.\n\n\n\n\nSecond approach: ethnography and intensive interviews that humanise the poor through vivid, often shocking narratives. Evicted, $2.00 a Day, On the Run, Gang Leader for a Day.\nBrady grants it is more construct valid than lab games, and it reveals the near-impossible choices people face.\nBut three problems. (1) It overrepresents unrepresentative, “exotic” groups. Fig. 7: among people in poverty, 29.4% live in coupled working-aged households versus 18.5% in single-mother households, 57.2% in employed versus 19% in jobless households, 80.3% have zero or one risk. Black and Latino adolescents in inner cities are 1.4% and 2.3% of people in poverty. About 4% are homeless.\nThe composite “typical” poor person: a white woman aged 35 to 45, high school education, coupled and employed household, no children, metropolitan area in the South.\n\nIt focuses on symptoms. Eviction: 64 times fewer people than in poverty, and “far more a symptom than a cause”.\n\n\nIt downplays effective policy, the “fallacy of intractability”. $2.00 a Day omits SNAP, which substantially reduces extreme poverty. Most people in extreme poverty are childless adults, and the biggest group of extremely poor children is in immigrant households.\n\nMisrepresenting the poor can backfire politically by feeding stereotypes."
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#iii-cultural-explanations-the-claim",
-    "href": "slides/poverty_not_the_poor.html#iii-cultural-explanations-the-claim",
+    "objectID": "index.html#iii-cultural-explanations-the-claim",
+    "href": "index.html#iii-cultural-explanations-the-claim",
     "title": "Poverty, not the poor",
     "section": "(iii) Cultural explanations: the claim",
     "text": "(iii) Cultural explanations: the claim\n\n\nPeople in poverty share a distinct culture\n\n\n\n\nThat culture produces behaviour that keeps them poor: not finishing school, not marrying, not working\n\n\n\n\nPoverty then reinforces the culture, and passes it on to the next generation\n\n\n\nA behavioural explanation with culture as the upstream cause: culture causes behaviour, behaviour causes poverty, poverty feeds back into culture.\nOld version: the “culture of poverty” of the 1960s, discredited after flawed generalisations about poor people, ethno-racial minorities and developing countries. Brady insists it fell because of logical and evidentiary problems, not only because of the Moynihan Report controversy.\nNew version: in 2010 the New York Times reported “‘Culture of Poverty’ Makes a Comeback”. Small, Harding and Lamont’s Annals issue “Reconsidering culture and poverty” is among the most cited poverty research of recent decades. New vocabulary, culture described as heterogeneous and adaptive, probabilistic rather than deterministic.\nBrady’s point: the argument is the same. “Rather than causing behavior, frames make it possible or likely” (Small et al.). Brady: there is no real difference between “cause” and “make possible or likely”.\nExample: Harding’s Living the Drama. 60 Black and Latino adolescent boys in three poor Boston neighbourhoods. “Ghetto-specific cultural models” and “negative role models” are said to lead boys not to use condoms, to engage in violence, and to “produce ignorance about how to successfully navigate educational institutions”."
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#iii-cultural-explanations-why-brady-rejects-them",
-    "href": "slides/poverty_not_the_poor.html#iii-cultural-explanations-why-brady-rejects-them",
+    "objectID": "index.html#iii-cultural-explanations-why-brady-rejects-them",
+    "href": "index.html#iii-cultural-explanations-why-brady-rejects-them",
     "title": "Poverty, not the poor",
     "section": "(iii) Cultural explanations: why Brady rejects them",
     "text": "(iii) Cultural explanations: why Brady rejects them\n\n\nCircular. If culture causes poverty and poverty causes culture, what made poverty high in the first place?\n\n\n\n\nNo comparison. Studies of poor people in poor neighbourhoods, with no non-poor group and no test against rival explanations\n\n\n\n\nWrong answer. Evidence points to, e.g., employer discrimination and segregated, lower-quality schools, not to the values of the poor\n\n\n\nEndogeneity: the feedback loop cannot explain the starting conditions. Cultural explanations “never really even attempted to explain systemically high poverty” and habitually omit the historical and institutional context.\nSelection: concentrating on a selectively chosen poor group without comparison groups. Harding compares disadvantaged boys and neighbourhoods against unobserved non-disadvantaged ones. Stereotypes often based on “the subjective biases of elite white male academics”.\nRival explanations: ample evidence that the poor do not hold anti-marriage or anti-school values. Rather than adolescent Black males lacking soft skills, extensive racial discrimination by employers. Rather than ignorance about college pathways, segregated and lower-quality schools and toxic environments. “It is possible that culture does not matter net of such factors.”\nThe new culturalists sidestep the old critiques rather than answer them, and barely mention racism: Small et al. has one mention, Harding one index entry.\nCombines the weaknesses of both other approaches: like fixing the poor, it cannot explain the high poverty that sets the stage; like dramatizing, it fixates on symptoms and overrepresents stereotypical groups."
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#section-1",
-    "href": "slides/poverty_not_the_poor.html#section-1",
+    "objectID": "index.html#section-1",
+    "href": "index.html#section-1",
     "title": "Poverty, not the poor",
     "section": "",
     "text": "Poverty is a problem of resource distribution.\n\n\n\nInstitutions make policy. Policy makes poverty.\n\n\n\nRich democracies have abundant resources. Poverty exists because they are not well distributed, and distributions are shaped by politics. Sen on famines: resources are available nearby, which is why famines are almost always prevented in functioning democracies.\nRank’s musical chairs: too few chairs (good jobs), not the players’ quickness, explains who is left standing. Brady’s version: not too few chairs, one person is lying across three, several are piled broken in a corner, and someone is told there is no seat because of a “scarcity”.\nDistinction from “structural” explanations (deindustrialisation, labour markets): “structuralists view poverty as the unfortunate byproduct of contextual factors … political accounts view poverty as the willfully chosen outcome of state (in)action when something could be done.”\nRise of this literature after about 2000, enabled by LIS data. “Poverty scholars who only know one country, know no country.”"
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#four-themes",
-    "href": "slides/poverty_not_the_poor.html#four-themes",
+    "objectID": "index.html#four-themes",
+    "href": "index.html#four-themes",
     "title": "Poverty, not the poor",
     "section": "Four themes",
     "text": "Four themes\n\n\nSocial policy generosity is a requirement for low poverty\nPenalties on risks are political choices\nPower resources: who is organised enough to win generous policy\nInstitutions: laws and rules that lock in the past\n\n\n\n\nBrady: “Within political explanations, there have been at least four concrete themes.” The next slides take them in turn."
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#a-social-policy-generosity",
-    "href": "slides/poverty_not_the_poor.html#a-social-policy-generosity",
+    "objectID": "index.html#a-social-policy-generosity",
+    "href": "index.html#a-social-policy-generosity",
     "title": "Poverty, not the poor",
     "section": "(a) Social policy generosity",
     "text": "(a) Social policy generosity\n\n\nThere has never been a country in the modern history of capitalist democracies that accomplished sustainably low poverty without a large welfare state.\n\n\n\n“The strongest and most robust generalization to emerge from recent decades of political research on poverty.”\nHolds whether generosity is measured as legislated social rights, transfers actually received, or total welfare spending. “Generosity” is shorthand for more universal programmes with high replacement rates, lower eligibility thresholds and high coverage.\nMonetising Medicaid shows the ACA expansion substantially reduced poverty and economic insecurity.\nCOVID: extended unemployment insurance, expanded Child Tax Credit and relief payments made poverty considerably lower.\nImplementation matters too: administrative burden, and racial disparities in access, are key drivers of racial inequalities in poverty.\nBrady stresses this is an externally valid generalisation built from many studies, beyond the internal validity of any single local causal effect."
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#a-social-policy-generosity-1",
-    "href": "slides/poverty_not_the_poor.html#a-social-policy-generosity-1",
+    "objectID": "index.html#a-social-policy-generosity-1",
+    "href": "index.html#a-social-policy-generosity-1",
     "title": "Poverty, not the poor",
     "section": "(a) Social policy generosity",
     "text": "(a) Social policy generosity\n\nPredicted poverty rates from a two-way fixed-effects model of social welfare spending (% of GDP) in 20 rich democracies, 1980–2019, with 95% CIs, overlaid with the actual U.S. minimum (1980), median (2006) and maximum (1984) poverty rates. Brady (2023), Fig. 8.\n\nFig. 8: two-way fixed-effects model (country, year), 20 rich democracies with OECD and LIS data, 1980 to 2019, poverty on social welfare spending as a percent of GDP and its square.\nThe actual US minimum (1980), median (2006) and maximum (1984) poverty rates fall almost exactly on the predicted line. The US is always in the upper left: high poverty, low spending.\n“The United States has systemically high poverty because it has low social welfare spending.” Presently the best explanation for why America has systemically high poverty."
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#b-penalties-are-political-choices",
-    "href": "slides/poverty_not_the_poor.html#b-penalties-are-political-choices",
+    "objectID": "index.html#b-penalties-are-political-choices",
+    "href": "index.html#b-penalties-are-political-choices",
     "title": "Poverty, not the poor",
     "section": "(b) Penalties are political choices",
     "text": "(b) Penalties are political choices\n\nBehaviouralists assume a mechanical link from behavioural risk to poverty, so they try to reduce the prevalence of risks.\n\n\nPolitical explanations: states decide which risks are protected. The penalty varies across countries and is politically manipulable.\n\n\n“Political choices” means a realistically nuanced decision by a polity to act or not: smoke-filled rooms (a few Senators not continuing the expanded CTC, state legislatures not expanding Medicaid), but also public opinion and agenda setting.\nSingle motherhood, the most studied risk: across 29 rich democracies more than three times as much variation in penalties as in prevalences. Across US states, interstate variation in prevalences was stable 1993 to 2016 while variation in penalties more than doubled (Nicholson).\nThe US does not have a high prevalence of single motherhood. It has the highest penalty for single motherhood.\nSocial policy generosity moderates the single-motherhood penalty for child poverty and for poverty among families with children, and the penalties for low education and joblessness."
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#c-power-resources",
-    "href": "slides/poverty_not_the_poor.html#c-power-resources",
+    "objectID": "index.html#c-power-resources",
+    "href": "index.html#c-power-resources",
     "title": "Poverty, not the poor",
     "section": "(c) Power resources",
     "text": "(c) Power resources\n\nThe default distribution of power in a capitalist democracy favours elites and business.\n\n\nUnions and Left parties organise the less advantaged. Poverty is lower where Left parties govern, unionisation is higher, and women are a larger share of parliaments.\n\n\nSo the field should study the choices of political actors who have power over the poor, not yet again the choices of the poor.\n\n\nPower resource theory: unions and leftist parties unite workers and voters around shared interests to push for generous social policies. The working class and poor need to bond together and attract some of the middle class to gain real power. Welfare state as the mechanism, collective political actors as the underlying cause.\nPineda-Hernández et al., 24 developed countries 1990 to 2015: centralised collective bargaining, greater bargaining coverage and higher unionisation significantly reduce working-age poverty after taxes and transfers.\nVanHeuvelen and Brady (PSID 1976 to 2015): household union membership and state unionisation both reduce poverty, interact to reinforce each other, and higher state unionisation spills over to non-union households. “American poverty research largely neglects labor unions.” Brady conjectures low unionisation is a more salient cause of poverty than eviction.\nPoverty governance: health care workers, police, welfare case workers and local community leaders regulate the poor. The field needs the “routine and banal ways in which powerful actors exclude those in poverty”.\nSkepticism about dramatizing: sympathy is unlikely to displace the ideologies and interests of political actors. No evidence the US has low compassion, vast evidence of a uniquely strong individualistic ideology. Never proven that poverty scholarship influences policy-makers or public opinion."
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#d-institutions",
-    "href": "slides/poverty_not_the_poor.html#d-institutions",
+    "objectID": "index.html#d-institutions",
+    "href": "index.html#d-institutions",
     "title": "Poverty, not the poor",
     "section": "(d) Institutions",
     "text": "(d) Institutions\n\nInstitutions are “the residue of the power of collective actors in the past”. They stay consequential without active maintenance.\n\n\nLinked to poverty: slavery, federalism, electoral systems, colonialism, criminal justice, labour market institutions, minimum wages, citizenship laws.\n\n\nTwo examples. Citizenship laws block access to social policy and employment. State-supported segregation and historical racial regimes put racism at the centre, which the three prevailing approaches barely mention.\n\n\nInequalities are slow-moving and do not respond promptly to electoral changes. Path dependency: a long time horizon of causes and effects is needed.\nStrong institutionalism: established institutions dominate over contemporary politics and lock in poverty. Weak institutionalism: they guide how and when politics can shape poverty.\nLabour market institutions: poverty is lower where wage bargaining is coordinated, centralised and corporatist, employment contracts are protected, and minimum wages are regulated at a higher level. Growing interest in eviction and housing laws.\nCitizenship: Baker and colleagues find nativity and citizenship explain the largest share of Latino-white and Asian-white poverty gaps. Citizenship laws and their enforcement block access to social policy, constrain employment rights, and limit residential opportunities. Immigrants may be “the most understudied population in poverty in the United States”. Children of immigrants, not single mothers, are most vulnerable to extreme poverty. Fig. 9 in the backup: noncitizen immigrant households 28.4%, citizen immigrant households similar to the overall population.\nRacism. Massey and Denton: federal, state and local governments made countless political choices to institutionalise residential and school segregation, facilitated or subsidised it, and under-enforced discrimination law. This concentrated poverty and undermined mobility.\nBaker: historical racial regimes (HRR) capture state-level institutions of slavery, sharecropping, opposition to integration, disenfranchisement devices. White poverty is uncorrelated with HRR. Black poverty and the Black-white gap are strongly positively associated with it, and HRR explains much of the Black-white poverty gap.\nSmall et al. have one mention of “racism” and zero of discrimination. Harding has one index entry, where he dismisses structural explanations. New culturalists put “blaming the victim” in pejorative quotes.\nRacism also drives variation in social policy, in penalties, and in the power of collective actors. Together this is a more persuasive account of racial inequalities in poverty than behaviour or culture."
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#section-2",
-    "href": "slides/poverty_not_the_poor.html#section-2",
+    "objectID": "index.html#section-2",
+    "href": "index.html#section-2",
     "title": "Poverty, not the poor",
     "section": "",
     "text": "US poverty is high, stable, and everywhere\n\n\nExplanations that start from the individual poor cannot account for it\n\n\nExplanations that start from power, policy and institutions can\n\n\nBrady is “far from the first to criticize the individualistic problem of persons”. What he documents is the empirical ascendance of political explanations, mostly since 2000 and mostly through cross-national data.\nThe claim at the end: political explanations are more likely to lead to effective policy."
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#section-3",
-    "href": "slides/poverty_not_the_poor.html#section-3",
+    "objectID": "index.html#section-3",
+    "href": "index.html#section-3",
     "title": "Poverty, not the poor",
     "section": "",
     "text": "Can psychology, a discipline whose unit is the individual, help study poverty rather than the poor?\n\n\n\nTransition. Brady’s reference list has 164 entries and almost no psychology. The implicit answer is that psychologists “pack up their things and yield the floor”, as Sheehy-Skeffington and colleagues put it.\nOne recent attempt at an answer: Sheehy-Skeffington, Buzan, Cano, tho Pesch and Rea (2026), Social Issues and Policy Review. Written explicitly in response to Brady."
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#what-the-psychology-of-poverty-has-done-so-far-sheehy-skeffingtonbringingwidersocioecological2026",
-    "href": "slides/poverty_not_the_poor.html#what-the-psychology-of-poverty-has-done-so-far-sheehy-skeffingtonbringingwidersocioecological2026",
+    "objectID": "index.html#what-the-psychology-of-poverty-has-done-so-far-sheehy-skeffingtonbringingwidersocioecological2026",
+    "href": "index.html#what-the-psychology-of-poverty-has-done-so-far-sheehy-skeffingtonbringingwidersocioecological2026",
     "title": "Poverty, not the poor",
     "section": "What the psychology of poverty has done so far (Sheehy‐Skeffington et al. 2026)",
     "text": "What the psychology of poverty has done so far (Sheehy‐Skeffington et al. 2026)\n\nFifteen years of experiments showing that being poor changes how people think and decide: attention narrows to the present, long-term planning suffers\n\n\nThis was welcomed as a reversal of the old story: poverty causes the behaviour, not the other way round\n\n\nGovernments and funders responded with interventions to improve the decisions of people living in poverty\n\n\nSheehy-Skeffington, Buzan, Cano, tho Pesch and Rea (2026), Social Issues and Policy Review. Written explicitly in response to Brady, and includes the authors’ own earlier work in the critique.\nThe experimental work: Mullainathan and Shafir on scarcity, Haushofer and Fehr on poverty and psychological functioning. Resources varied experimentally or quasi-experimentally, effects on cognition, present bias, stress.\nTaken up by the Behavioural Insights Team and the World Bank. The argument there: structural reforms “can only go so far” without addressing the cognitive and motivational constraints of the poor."
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#their-problem-with-it-which-is-bradys-problem",
-    "href": "slides/poverty_not_the_poor.html#their-problem-with-it-which-is-bradys-problem",
+    "objectID": "index.html#their-problem-with-it-which-is-bradys-problem",
+    "href": "index.html#their-problem-with-it-which-is-bradys-problem",
     "title": "Poverty, not the poor",
     "section": "Their problem with it, which is Brady’s problem",
     "text": "Their problem with it, which is Brady’s problem\n\nIt still focuses on the behaviour of poor people, not why there is poverty\n\n\nHelping some individuals decide better may move them up. It does not tackle the structural and political causes.\n\n\nOffering individual fixes can even reduce public support for structural ones\n\n\nTheir words: psychological research “has largely fixated on what explains the behaviors of people living in poverty, rather than on what explains poverty itself (see Brady 2023).”\nMobility is not poverty reduction: “Promoting upward mobility and making a society more meritocratic are valuable goals, but they should not be conflated with the goal of reducing poverty at the population level.” The idea of a self-reinforcing “psychological poverty trap” is “empirically unsubstantiated” at the population level, citing Brady’s cross-national evidence.\nCrowding out: Hagmann et al. 2019, telling people about a green-energy nudge reduced their support for a carbon tax. The authors apply the same worry to poverty.\nTheir observation about the discipline: “This is usually the point at which mainstream psychologists pack up their things and yield the floor.” They argue that exit is premature."
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#their-proposal-study-poverty-outside-in",
-    "href": "slides/poverty_not_the_poor.html#their-proposal-study-poverty-outside-in",
+    "objectID": "index.html#their-proposal-study-poverty-outside-in",
+    "href": "index.html#their-proposal-study-poverty-outside-in",
     "title": "Poverty, not the poor",
     "section": "Their proposal: study poverty “outside-in”",
     "text": "Their proposal: study poverty “outside-in”\n\nStart at the widest level and work inward. At each level: what does this do to people, and what should psychology study?\n\n\nMacro- and exosystem. The welfare regime and the ideology behind it\n\n\nMesosystem. The design and implementation of specific social policies\n\n\nMicrosystem. The proximal material and social conditions of poverty\n\n\nBronfenbrenner’s ecological systems theory. Microsystem: the immediate environment where one carries out roles (the welfare office, the supermarket). Mesosystem: the set of microsystems a person inhabits and how they interact (work and childcare). Exosystem: formal and informal institutions that distribute resources, rights and opportunities (parliaments, markets, media). Macrosystem: the cultural and ideological “blueprint” (free-market capitalism, labour law, the policy regime).\nThe paper adds to this: comparative political economy (how welfare states differ) and intergroup power relations (social dominance theory, intersectionality).\nThe reversal: most work goes “inside-out”, from individuals in poverty to what could be done around them. The paper goes “outside-in”. In Chater and Loewenstein’s terms, from the i-frame to the s-frame."
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#macro--and-exosystem-the-welfare-regime",
-    "href": "slides/poverty_not_the_poor.html#macro--and-exosystem-the-welfare-regime",
+    "objectID": "index.html#macro--and-exosystem-the-welfare-regime",
+    "href": "index.html#macro--and-exosystem-the-welfare-regime",
     "title": "Poverty, not the poor",
     "section": "Macro- and exosystem: the welfare regime",
     "text": "Macro- and exosystem: the welfare regime\n\nLiberal regimes (US, UK): support must be earned and is policed, through job-search requirements, sanctions, even drug tests. Linked to stigma and worse mental health\n\n\nSocial-democratic regimes (Nordics): benefits are a right of residence. Less stigma, support read as solidarity rather than failure\n\n\nWelfare regimes are “moral environments”: they shape how poverty feels and how poor people are judged\n\n\nFour types from Esping-Andersen: liberal (US, UK, Australia), conservative-corporatist (Germany, Austria, France), social-democratic (Nordics), Mediterranean (Spain, Italy). A regime is “the institutional arrangement through which the state, the market, and the family share the responsibility for an individual’s well-being”, and it defines “to whom one is expected to turn in times of crisis: a caseworker, an employer, or a relative”.\nLiberal: since the 1980s welfare recast as “contractual citizenship”, earned by behaviour. Some US states drug-test applicants for Temporary Assistance for Needy Families although positive rates are very low. UK: Universal Credit associated with worse mental health in quasi-experimental studies, sanctions with anxiety and depression. The “perversity thesis” (welfare creates poverty) works as a system-justifying belief.\nGermany: deservingness depends on having “paid in”. Nordics: universalism blurs the line between recipients and contributors, but suspicion re-emerges towards migrants, single mothers, young people. Southern Europe: the family is the safety net, immigrants ranked least deserving.\nAll types drifting towards the liberal model, faster since 2008."
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#what-psychology-should-do-at-this-level",
-    "href": "slides/poverty_not_the_poor.html#what-psychology-should-do-at-this-level",
+    "objectID": "index.html#what-psychology-should-do-at-this-level",
+    "href": "index.html#what-psychology-should-do-at-this-level",
     "title": "Poverty, not the poor",
     "section": "What psychology should do at this level",
     "text": "What psychology should do at this level\n\n\nCompare welfare regimes to find the institutional features that reduce stigma and moral suspicion and strengthen perceived security and belonging\n\n\n\n\nStudy the psychological consequences of “liberalisation”, the drift of every regime towards the US model\n\n\n\n\nJoin the debate on how to organise society: on their reading, the social-democratic model is “plausibly the most psychologically protective”\n\n\n\nSection 3.6 of the paper, “Analyzing the psychological dimension of welfare institutional configurations indicates how to better structure society”.\nTheir argument for why this is psychology’s business: seeing that welfare capitalism varies, and that the variation tracks poverty levels, “reveals that societal conditions could be otherwise”. Society stops being “a mere backdrop” for individual differences.\nThe social-democratic model is protective “not only because of its level of provision, but because of the narrative frame through which support is institutionalized”: citizens as members of a communal unit rather than as individual market value. They also name alternatives to meritocracy as a moral language: the common good (Sandel), a rightful share of collective prosperity (Ferguson).\nLiberalisation “should be scrutinized for its social and psychological consequences”: it shifts poverty from a societal failure to an individual failure and polarises, as the poorest are “blamed and shamed”.\nCaveat they add: solidarity is bounded and can be mobilised to exclude, for example asylum seekers."
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#mesosystem-three-choices-in-policy-design",
-    "href": "slides/poverty_not_the_poor.html#mesosystem-three-choices-in-policy-design",
+    "objectID": "index.html#mesosystem-three-choices-in-policy-design",
+    "href": "index.html#mesosystem-three-choices-in-policy-design",
     "title": "Poverty, not the poor",
     "section": "Mesosystem: three choices in policy design",
     "text": "Mesosystem: three choices in policy design\n\nUniversal or targeted? Targeting labels people as recipients, and the label carries a stereotype: less hardworking, less competent. Having to apply and prove eligibility keeps eligible people out\n\n\nUnconditional or conditional? Making benefits depend on job search lowers wellbeing and shifts responsibility for basic needs from the state to the individual\n\n\nProtected or precarious work? Working poverty is growing. Precarious contracts push the risk onto the worker, strong unions raise wages and job quality for union and non-union workers alike\n\n\nThe paper names three psychological processes behind the first two choices: demarcation, default enrolment, dignity.\nUniversal or targeted. Demarcation: experiments show that being labelled a recipient of a targeted unemployment benefit makes people seem less conscientious, less humane, less hardworking (Schofield et al. 2019). Benefit recipients in liberal welfare states are stereotyped as lower in warmth and competence (Schofield et al. 2021). Falling just outside a threshold deepens poverty for people with several marginalised statuses. Defaults: automatic enrolment puts the burden on the state, applying creates layers of administrative burden and a cycle of “hurry up and wait”. Young people in UK poverty asked for simpler processes and fewer documents. Dignity: having to perform worthiness is “structural violence” (Galtung), gatekeeping by eligibility checks.\nUnconditional or conditional. UK: proof of active job search for unemployment benefits. Exposure to conditionality predicts lower wellbeing and motivation (Dwyer et al. 2023). “Responsibilization”: shifting responsibility for basic human needs from the state to the individual, a subtle form of behavioural conditioning.\nPredistribution. OECD 2023: 8% of individuals in households with at least one worker are poor, nearly a quarter of the working poor live in households with two or more workers. 60% of jobs created 2007 to 2013 in 26 European countries were non-standard. Job insecurity: lower wellbeing, more stress, worse health, worse outcomes for children. Over one million UK residents on zero-hours contracts. Strong unions improve wages and job quality for union and non-union workers, and raise workers’ sense of control and commitment. Caveat: union benefits can go to “core” workers and exclude “peripheral” ones.\nTheir summary: the bulk of the evidence says universal provision supports wellbeing better than means-testing, and is not necessarily more expensive once eligibility checking is gone."
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#what-psychology-should-do-at-this-level-1",
-    "href": "slides/poverty_not_the_poor.html#what-psychology-should-do-at-this-level-1",
+    "objectID": "index.html#what-psychology-should-do-at-this-level-1",
+    "href": "index.html#what-psychology-should-do-at-this-level-1",
     "title": "Poverty, not the poor",
     "section": "What psychology should do at this level",
     "text": "What psychology should do at this level\n\n\nEvaluate policy features for their psychological effects: universal versus means-tested, unconditional versus conditional\n\n\n\n\nStudy predistribution: how precarious work and collective bargaining rights shape the experience of people at risk of poverty, including the “benefits and pitfalls” of labour-market reforms\n\n\n\n\nBuild causal evidence, because “research on its psychological dimension is sparse and limited in causal insight”\n\n\n\nSection 4.4, “Analyzing the psychological dimension of distributive policy design indicates how to do it more effectively and equitably”.\nTheir reading of the evidence: universal provision is more supportive of psychological wellbeing, reduces stigma, cuts the stress of administrative complexity and gatekeeping, and is not necessarily more expensive once eligibility checking is counted. Universal basic income is their example, more endorsed where unemployment benefits are low or contracts temporary.\nPredistribution: zero-hours contracts in the UK are linked to worse mental health, and the Employment Rights Bill would ban “exploitative” ones. Unions increase workers’ “voice” and sense of control. The paper notes psychology’s “lack of scholarly attention and even antagonism” towards unions, especially in the US. Open question they flag: unions can protect “core” workers while excluding “peripheral” ones, so more research is needed on both sides.\nTheir framing of the meso level: the rights and responsibilities placed on people in poverty measure “the level of institutional harshness they need to endure”, and the implementation of protection determines “the predictability of the psychological terrain” they navigate."
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#microsystem-the-daily-conditions-of-being-poor",
-    "href": "slides/poverty_not_the_poor.html#microsystem-the-daily-conditions-of-being-poor",
+    "objectID": "index.html#microsystem-the-daily-conditions-of-being-poor",
+    "href": "index.html#microsystem-the-daily-conditions-of-being-poor",
     "title": "Poverty, not the poor",
     "section": "Microsystem: the daily conditions of being poor",
     "text": "Microsystem: the daily conditions of being poor\n\nHarshness: scarce resources, unsafe surroundings, pollution and heat. Unpredictability: income, work hours, housing, childcare\n\n\nIn such an environment, taking the money now and avoiding risks is adaptive, not a failure of self-control\n\n\nSome famous lab effects may be artefacts: in the scarcity games, “rich” participants rarely needed to borrow at all\n\n\nHarshness: deprivation-based (insufficient food, shelter, healthcare) and threat-based (violence, injury, toxins, extreme heat). Unpredictability: “daily chaos”, changing shifts, unreliable childcare, frequent moves, teacher turnover.\nThe reinterpretation, from behavioural ecology: future discounting and risk aversion are adaptive when the future is uncertain and control is low. Kidd et al.: children became more impulsive in the marshmallow test after an adult had been unreliable. Lower perceived control among the poor is “arguably an accurate appraisal of objective disempowerment”. A shift from exploration to exploitation in children’s learning strategies.\nPoverty as a double disadvantage: the direct harm of the conditions, plus strategies that help in the short term and cost in the long term.\nThe caveat is the paper’s own: a reanalysis by tho Pesch and colleagues of the Shah, Mullainathan and Shafir data finds the “overborrowing” result reflects the task, because participants in the rich condition rarely had to borrow. Some scarcity findings have failed to replicate."
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#what-psychology-should-do-at-this-level-2",
-    "href": "slides/poverty_not_the_poor.html#what-psychology-should-do-at-this-level-2",
+    "objectID": "index.html#what-psychology-should-do-at-this-level-2",
+    "href": "index.html#what-psychology-should-do-at-this-level-2",
     "title": "Poverty, not the poor",
     "section": "What psychology should do at this level",
     "text": "What psychology should do at this level\n\n\nIntervene on the environment, not the person: predictable income, safe housing and workplaces, child poverty first\n\n\n\n\nRedesign settings that penalise people adapted to adversity: test questions, class-sensitive teaching, payment schedules, simple application processes\n\n\n\n\nRule out structural constraints before invoking a psychological shift\n\n\n\nSection 5.3, “Analyzing the psychological dimension of material and social conditions indicates the importance of improving such conditions”.\n“To the extent that harmful behavioral patterns are responsive to environments of material and social adversity, the critical point of intervention should be the environment itself.” Child poverty is the priority because early exposure has the most enduring effects.\nHealth example: despite the persistent idea in psychology and healthcare that the health of low-income groups is behaviourally determined, health policy and epidemiology point to structural interventions. Reducing extrinsic mortality risk in deprived settings “might be more effective in changing health behaviors” than nudges designed with middle-class settings in mind. Concrete: inspecting rental properties for damp and mould, reducing traffic emissions, which also raise the sense that one’s health is under one’s control and worth investing in.\nSettings: whether test questions on everyday topics (money, food) impair performance for low-SES students; teaching that emphasises interdependence rather than middle-class independence norms; benefits that are “easily accessible, timely, and responsive to short-term needs”, for example the UK’s flexible payment frequency; simplicity and clarity in voting, admissions, loan applications.\nStructural constraints first: where liquidity constraints prevent the option that pays off in the long run (their own graduate job choice study), “either the material conditions, or the choice options, or both, need to be improved”."
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#so-what-changes-for-psychological-research-on-poverty",
-    "href": "slides/poverty_not_the_poor.html#so-what-changes-for-psychological-research-on-poverty",
+    "objectID": "index.html#so-what-changes-for-psychological-research-on-poverty",
+    "href": "index.html#so-what-changes-for-psychological-research-on-poverty",
     "title": "Poverty, not the poor",
     "section": "So what changes for psychological research on poverty?",
     "text": "So what changes for psychological research on poverty?\n\nThe object of study.\n\nFrom the behaviour of people in poverty to the psychological consequences of specific institutional and policy design choices\n\n\n\n\nFrom improving the decisions of the poor to evaluating policy designs and studying the politics that could change them\n\n\n\nIs this a passive programme, studying how poverty affects people rather than how to end it? Partly. Most of the paper is descriptive: what each institutional feature does to people. The intervention role it keeps for psychology is twofold. First, evaluation: psychology tells policymakers which institutional designs are less harmful, with a clear preference for universal, unconditional, automatic provision and for changing environments rather than people. Second, the politics of change: who supports which policies and why, and what stops political actors from acting. Those are the research agenda on the next slide.\nTheir own summary: “psychology can be a part not only of making poverty tolerable or escapable, but of ending it altogether.”"
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#helping-the-poor-or-fighting-poverty",
-    "href": "slides/poverty_not_the_poor.html#helping-the-poor-or-fighting-poverty",
+    "objectID": "index.html#helping-the-poor-or-fighting-poverty",
+    "href": "index.html#helping-the-poor-or-fighting-poverty",
     "title": "Poverty, not the poor",
     "section": "Helping the poor or fighting poverty?",
     "text": "Helping the poor or fighting poverty?\n\nTheir research agenda:\n\nquasi-experimental and longitudinal comparisons of how different welfare logics shape psychological processes over time\neconomic games whose institutional rules mimic different political and economic configurations\nhow to promote participation in labour unions and collective movements\nthe psychological foundations of voting for egalitarian or universalist platforms\nthe psychology of policymakers: why they fail to implement what they advocate\n\n\n\nSection 6.1 and 6.2 of the paper. “Promoting upward mobility and making a society more meritocratic are valuable goals, but they should not be conflated with the goal of reducing poverty at the population level.” The “psychological poverty trap” is “empirically unsubstantiated” at that level.\nCrowding out: Hagmann et al. 2019, telling people about a green-energy nudge reduced support for a carbon tax. They apply the same worry to poverty.\nThe agenda items are quoted from section 6.2, which also mentions attention to gender, ethnicity and migration status, and the psychology of capitalism itself against alternative systems (Bettache). Burns and Kraus 2025 is their example of work on union participation, Druckman et al. 2023 of work on policymakers (polarisation).\nLuck egalitarianism: the distinction between inequalities people chose (option luck) and inequalities imposed on them (brute luck) collapses once choices are constrained by conditions others created.\nWhere this meets Brady: his causes are power, policy and institutions, and he notes the US public’s “uniquely strong individualistic ideology” without studying it. The public psychology that keeps penalties high is the open question for this room."
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#references",
-    "href": "slides/poverty_not_the_poor.html#references",
+    "objectID": "index.html#references",
+    "href": "index.html#references",
     "title": "Poverty, not the poor",
     "section": "References",
     "text": "References\n\n\nBrady, David. 2023. “Poverty, Not the Poor.” Science Advances 9 (34): eadg1469. https://doi.org/10.1126/sciadv.adg1469.\n\n\nChater, Nick, and George Loewenstein. 2023. “The i-Frame and the s-Frame: How Focusing on Individual-Level Solutions Has Led Behavioral Public Policy Astray.” Behavioral and Brain Sciences 46: e147. https://doi.org/10.1017/S0140525X22002023.\n\n\nSheehy‐Skeffington, Jennifer, Julia Buzan, Iván Cano, Fiona Tho Pesch, and Jessica Rea. 2026. “Bringing a Wider Socioecological Lens to the Psychology of Poverty.” Social Issues and Policy Review 20 (1): e70010. https://doi.org/10.1111/sipr.70010."
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#child-poverty-over-time",
-    "href": "slides/poverty_not_the_poor.html#child-poverty-over-time",
+    "objectID": "index.html#child-poverty-over-time",
+    "href": "index.html#child-poverty-over-time",
     "title": "Poverty, not the poor",
     "section": "Child poverty over time",
     "text": "Child poverty over time\n\nChild poverty rates for Black (solid), Latino (dashed) and white (dotted) children in the United States, 1970–2019, with 95% CIs. Brady (2023), Fig. 4.\n\nBlack child poverty near 50% and Latino child poverty above 45% in the mid-1980s, an increase from the 1970s. Only recently down to near 30%.\n“Most Black and Latino adults today grew up experiencing truly extraordinarily high poverty during childhood compared to any rich democracy in over four decades of the LIS.”"
   },
   {
-    "objectID": "slides/poverty_not_the_poor.html#institutions-citizenship",
-    "href": "slides/poverty_not_the_poor.html#institutions-citizenship",
+    "objectID": "index.html#institutions-citizenship",
+    "href": "index.html#institutions-citizenship",
     "title": "Poverty, not the poor",
     "section": "Institutions: citizenship",
     "text": "Institutions: citizenship\n\n\n\nPoverty rates by immigrant and citizenship status of the household, United States (2016–2020) versus the cross-national median of 24 rich democracies. Dotted line: CN median for the overall population. Brady (2023), Fig. 9.\n\n\n\n\nImmigrant-led households in the US: 22.1%, high compared to the overall population, to non-immigrant households, and to immigrant households in other rich democracies.\nCitizen immigrant households have poverty similar to the overall population. What stands out is the 28.4% of noncitizen immigrant households.\nNot behaviour: citizenship laws and their enforcement produce this."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Poverty, not the poor",
-    "section": "",
-    "text": "Slides for a journal club presentation of Brady (2023).\nOpen the slides (press S for speaker notes)\nThe figures are the paper’s own.\n\n\n\n\nReferences\n\nBrady, David. 2023. “Poverty, Not the Poor.” Science Advances 9 (34): eadg1469. https://doi.org/10.1126/sciadv.adg1469."
   }
 ]

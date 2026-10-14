@@ -3,13 +3,7 @@ project:
   output-dir: docs
   render:
     - index.qmd
-    - slides/poverty_not_the_poor.qmd
 
 website:
   title: "Poverty, not the poor"
   site-url: https://janpfander.github.io/journal_club_poverty/
-
-format:
-  html:
-    theme: cosmo
-    toc: false
