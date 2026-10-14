@@ -11,5 +11,5 @@
 **/*_files/
 output/
 **/*.quarto_ipynb
-# rendered deck (self-contained html, rebuild with `quarto render`)
-slides/*.html
+# project instructions for Claude Code, local only
+CLAUDE.md

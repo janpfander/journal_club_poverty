@@ -1,0 +1,11 @@
+---
+title: "Poverty, not the poor"
+subtitle: "Journal club, 14 October 2026 · Jan Pfänder"
+bibliography: references.bib
+---
+
+Slides for a journal club presentation of @bradyPovertyNotPoor2023.
+
+**[Open the slides](slides/poverty_not_the_poor.html)** (press `S` for speaker notes)
+
+The figures are the paper's own.
