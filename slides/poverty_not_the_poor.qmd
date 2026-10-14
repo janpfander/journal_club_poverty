@@ -197,22 +197,12 @@ Brady asks why the United States has so much **poverty**. [@bradyPovertyNotPoor2
 
 # 2. Three prevailing approaches
 
-## {.big-center}
+## Three approaches to the individual poor
 
-::: {.statement}
-(i) fixing the poor
-:::
-
-. . .
-
-::: {.statement}
-(ii) dramatizing the poor
-:::
-
-. . .
-
-::: {.statement}
-(iii) cultural explanations
+::: {.spaced .incremental}
+- (i) fixing the poor
+- (ii) dramatizing the poor
+- (iii) cultural explanations
 :::
 
 ::: {.notes}

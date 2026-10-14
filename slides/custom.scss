@@ -90,6 +90,11 @@ $link-color: #2A76DD;
   border-radius: 8px;
 }
 
+// Lists with more air between items: `::: {.spaced}` around a list, or
+// `::: {.spaced .incremental}` to also reveal them one by one.
+.reveal .slides .spaced li { margin-bottom: 1.1em; }
+.reveal .slides .spaced > p { margin-bottom: 1.4em; }
+
 // Title slide.
 .reveal #title-slide { text-align: center; }
 .reveal #title-slide .title { font-size: 2.5em; line-height: 1.2; }
